@@ -8,6 +8,7 @@ carousel = [
     "jaisalmer fort digital pano shortened.png",
     "5 jhkjkh copy.png",
     "08 Gujarat, Patan, Muslim, slides 4.png",
+    "Gujarat, Kachchh, Rabari huts in Tunda Wandh 01.png",
     "001 A (1).png",
     "Shenoy Hambi B copy.png",
     "16 MP, Kota, painted haveli 03.png",
@@ -25,8 +26,6 @@ text = '&hellip; _incredible resource for architects, art and architectural hist
 author = """--- Ratish Nanda   
 (noted Conservation Architect and Director, Aga Khan Trust for Culture)"""
 +++
-
----
 
 Laborum voluptate pariatur ex culpa magna nostrud est incididunt fugiat
 pariatur do dolor ipsum enim. Consequat tempor do dolor eu. Non id id anim anim
