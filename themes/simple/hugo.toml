@@ -1,0 +1,59 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Regions'
+pageRef = '#'
+weight = 20
+
+[[menus.main]]
+name = 'East and North-East'
+pageRef = '/regions/east-and-northeast'
+weight = 20
+parent = "Regions"
+
+[[menus.main]]
+name = 'Himalayas'
+pageRef = '/regions/himalayas'
+weight = 30
+parent = "Regions"
+
+[[menus.main]]
+name = 'Islands'
+pageRef = '/regions/islands'
+weight = 40
+parent = "Regions"
+
+[[menus.main]]
+name = 'North'
+pageRef = '/regions/north'
+weight = 50
+parent = "Regions"
+
+[[menus.main]]
+name = 'South'
+pageRef = '/regions/south'
+weight = 60
+parent = "Regions"
+
+[[menus.main]]
+name = 'West and Central'
+pageRef = '/regions/west-and-central'
+weight = 70
+parent = "Regions"
+
+[[menus.main]]
+name = 'Buy the Book'
+pageRef = '/shop'
+weight = 30
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"

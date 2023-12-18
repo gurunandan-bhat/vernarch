@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Intro One",
+        "icon": "fa-camera fa-solid fa-2xl pb-4",
+        "text": "Orci nisi, luctus vitae imperdiet a, iquam vel urna. Pellentesque tincidunt laoreet est, in tristique sapien a purus."
+    },
+    {
+        "title": "Intro Two",
+        "icon": "fa-solid fa-earth-asia fa-2xl pb-4",
+        "text": "Orci nisi, luctus vitae imperdiet a, iquam vel urna. Pellentesque tincidunt laoreet est, in tristique sapien a purus."
+    },
+    {
+        "title": "Intro Three",
+        "icon": "fa-solid fa-house-tsunami fa-2xl pb-4",
+        "text": "Orci nisi, luctus vitae imperdiet a, iquam vel urna. Pellentesque tincidunt laoreet est, in tristique sapien a purus."
+    }
+]

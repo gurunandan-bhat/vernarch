@@ -1,0 +1,5 @@
+{{- if strings.ContainsNonSpace .Inner }}
+<blockquote class="blockquote blockquote-{{- with .Get "position" }}{{- . }}{{- end }}">
+    <i class="fa-solid fa-quote-left fa-lg hue" aria-hidden="true"></i> &hellip; {{ .Inner }} <i class="fa-solid fa-quote-right fa-lg hue" aria-hidden="true"></i>
+</blockquote>
+{{- end}}

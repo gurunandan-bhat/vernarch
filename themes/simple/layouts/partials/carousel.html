@@ -1,0 +1,17 @@
+<div
+    id="carouselExampleCaptions"
+    class="carousel slide carousel-fade"
+    data-bs-ride="carousel"
+>
+    <div class="carousel-inner">
+        {{ range $i, $src := .Params.carousel }}
+        <div class="carousel-item {{ if not $i }}active{{ end }}">
+            <img
+                src="/images/home/carousel/{{ $src }}"
+                class="d-block w-100"
+                alt="..."
+            />
+        </div>
+        {{ end }}
+    </div>
+</div>

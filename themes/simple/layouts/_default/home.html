@@ -1,0 +1,59 @@
+{{ define "main" }}
+<div class="row">{{- partial "carousel.html" . }}</div>
+{{- .Content }}
+
+<div class="row">
+    <div class="col-6">
+        <h2>Reviews</h2>
+        {{- range .Params.review }}
+        <div class="review pb-3">
+            <h3>
+                <i class="fa-solid fa-quote-left fa-lg hue"></i>
+                    {{- .text | markdownify }}
+                <i class="fa-solid fa-quote-right fa-lg hue"></i>
+            </h3>
+            <h6>{{- .author | markdownify }}</h6>
+        </div>
+        {{- end }}
+        <hr class="pb-4"/>
+    </div>
+</div>
+<!--info boxes-->
+<div class="row intro">
+    {{- range .Site.Data.home.intro }}
+    <div class="col-md-3">
+        <div class="text-center">
+            <i class="{{- .icon }} display-6"></i>
+        </div>
+        <h5 class="text-center">{{- .title }}</h5>
+        <p>{{- .text }}</p>
+    </div>
+    {{ end }}
+</div>
+<!--//info boxes-->
+
+<div class="row pt-5">
+    <h3>Browse Regions</h3>
+    {{- range (where .Site.RegularPages "Section" "regions") }}
+    <div class="col-md-2">
+        <img
+            src="/images/regions/{{- .Params.summaryImage }}"
+            width="100%"
+            alt="..."
+            class="pb-2"
+        />
+        <h5 class="text-center">
+            <a href="{{- .RelPermalink }}">{{- .LinkTitle }}</a>
+        </h5>
+        <h6>Covers {{ delimit .Params.includeStates ", " " and "}}</h6>
+        <p class="small">
+            {{ .Summary }}
+            <a href="{{- .RelPermalink }}"
+                ><i class="fa-solid fa-angles-right"></i
+            ></a>
+        </p>
+    </div>
+    {{ end }}
+    <hr />
+</div>
+{{end}}

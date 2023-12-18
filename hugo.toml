@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Vernacular Architecture of India'
+theme = 'simple'
+summaryLength = 20
