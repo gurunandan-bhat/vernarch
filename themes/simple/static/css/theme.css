@@ -59,7 +59,7 @@ figcaption {
 .blockquote strong {
     font-style: italic;
     color: #5e5e5e;
-} 
+}
 
 .blockquote-left {
     float: left !important;
@@ -180,6 +180,7 @@ h3 em {
     font-style: normal;
     color: #c71e1e;
 }
+
 /* Links */
 a {
     color: #c71e1e;

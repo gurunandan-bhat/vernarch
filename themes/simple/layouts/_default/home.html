@@ -1,22 +1,22 @@
 {{ define "main" }}
 <div class="row">{{- partial "carousel.html" . }}</div>
-{{- .Content }}
-
-<div class="row">
-    <div class="col-6">
+<hr class="mb-6" />
+<div class="row pt-6">
+    <div class="col-md-6">
         <h2>Reviews</h2>
         {{- range .Params.review }}
         <div class="review pb-3">
             <h3>
                 <i class="fa-solid fa-quote-left fa-lg hue"></i>
-                    {{- .text | markdownify }}
+                {{- .text | markdownify }}
                 <i class="fa-solid fa-quote-right fa-lg hue"></i>
             </h3>
             <h6>{{- .author | markdownify }}</h6>
         </div>
         {{- end }}
-        <hr class="pb-4"/>
+        <hr class="pb-4" />
     </div>
+    <div class="col-md-6">{{- .Content }}</div>
 </div>
 <!--info boxes-->
 <div class="row intro">
