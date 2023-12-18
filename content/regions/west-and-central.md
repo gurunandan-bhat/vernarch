@@ -46,8 +46,8 @@ carvings embellish the sand stone with which the havelis are constructed. The mo
 known ones in Jaisalmer are the group of Patua havelis, Nathmalji’s haveli, and the haveli
 of Salim Sinh with its singular tower. Bikaner and Jodhpur also have remarkable havelis in
 stone. There are also the elegant havelis of Jaipur and the painted ones in the Shekhawati
-region, where the technique of fresco painting runs wild.{{<blockquote position="right">}}in 
-Rajasthan a tremendous variety of materials were used depending on local availability in the 
+region, where the technique of fresco painting runs wild.{{<blockquote position="right">}}in
+Rajasthan a tremendous variety of materials were used depending on local availability in the
 various regions – honey or golden coloured sandstone in Jaisalmer and red in Bikaner, Phalodi and Khichen. Jodhpur has lime
 surfaced stone and rubble painted light blue. The colours of Udaipur are white, signifying
 purity{{< /blockquote >}}
@@ -211,7 +211,9 @@ was saved in an underground tank under the courtyard. Swings were there for rela
 creating a breeze on hot summer days, and grilled doors give security with ventilation. Patan
 Muslim and Hindu houses had a vavdan or wind catcher to channel the breeze from the roof
 of the house to the levels below or provide indirect circulation due to a venturi effect. The
-timbering could be half or full.
+timbering could be half or full.{{< blockquote position="left" >}}Lippankaam, mud decorative work with
+small mirrors embellishes the inside of these hut. The interior also has clay cupboards with
+wooden shutters for storing food grains{{< /blockquote >}}
 
 Kachchh in western Gujarat, in its Banni pasture land has circular bhungas or huts made of
 mud, clay and thatch with working area in-between covered by shelter of branches of prosopis
@@ -242,7 +244,9 @@ family deity installed in an ornamental niche in the wall. A false ceiling of wo
 is engraved with meandering floral patterns and coloured glass lamps are suspended from it.
 The overall colour scheme is bright but with little ornamentation outside.
 
-In some wadas, the inside plaster walls facing the court are adorned with monochromatic
+{{< blockquote position="right" >}}it is interesting that some wada homes were built as small pleasure
+palaces, having symmetrically laid out garden plans and fountains, with Persian wheels for
+filling the overhead tanks, like the magnificent one at Wai{{< /blockquote >}}In some wadas, the inside plaster walls facing the court are adorned with monochromatic
 frescoes in earthen colours of deep red or ochre. The themes of these paintings are
 illustrations from epics and legends. This colouring technique is known as abashi and the
 painters belong to the Jingar community. Functional niches with stucco work are built
