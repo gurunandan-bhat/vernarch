@@ -7,6 +7,7 @@ headerImg = '/images/regions/east-and-northeast/Nagaland, tribe Chang 03.png'
 includeStates = ['Odisha', 'West Bengal', 'Assam', 'Meghalaya', 'Arunachal Pradesh', 'Manipur',
 'Mizoram', 'Nagaland']
 tags = ['red']
+sortOrder = 5
 type = 'regions'
 pages = 34
 images = 107

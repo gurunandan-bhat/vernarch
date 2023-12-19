@@ -34,7 +34,8 @@
 
 <div class="row pt-5">
     <h3>Browse Regions</h3>
-    {{- range (where .Site.RegularPages "Section" "regions") }}
+    {{- $intros := where .Site.RegularPages "Section" "regions" }} 
+    {{- range sort $intros ".Params.sortOrder" }}
     <div class="col-md-2">
         <img
             src="/images/regions/{{- .Params.summaryImage }}"

@@ -5,6 +5,7 @@ draft = false
 tags = ['red']
 summaryImage = "Rajasthan, Jaisalmer, Patua haveli slides 11.png"
 includeStates = ['Rajasthan', 'Gujarat', 'Maharashtra', 'Madhya Pradesh']
+sortOrder = 3
 headerImg = '/images/regions/west-and-central/Gujarat, Kachchh, Tunda wandh 02.png'
 images = "over 400"
 pages = 50

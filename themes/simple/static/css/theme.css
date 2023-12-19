@@ -23,9 +23,9 @@ body {
     overflow-x: hidden;
     margin: 0;
     padding: 0;
-    font-family: "Marcellus", serif;
-    font-weight: 500;
-    color: #3a3a3a;
+    font-family: "Marcellus", regular;
+    font-weight: 400;
+    color: #4e4e4e;
     background: #fff url(/img/body.png) repeat;
 }
 

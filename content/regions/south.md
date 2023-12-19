@@ -6,6 +6,7 @@ tags = ['red']
 summaryImage = "Kerala, Calicut, Hindu house 02.png"
 headerImg = '/images/regions/south/TrStV8_Shenoy_29_04.png'
 includeStates = ['Kerala', 'Tamil Nadu', 'Karnataka', '(erstwhile) Andhra Pradesh', 'Goa', 'Puducherry']
+sortOrder = 4
 pages = 90
 images = 'over 300'
 [[sidebarImg]]

@@ -6,6 +6,7 @@ tags = ['red']
 summaryImage = "Islands, Lakhshadweep 03.png"
 headerImg = '/images/regions/islands/Islands, Lakhshadweep 04.png'
 includeStates = ['Andamans', 'Nicobar', 'Lakshadweep']
+sortOrder = 6
 +++
 
 The islands of Andamans, Nicobar and Lakshadweep have vernacular traditions unique to

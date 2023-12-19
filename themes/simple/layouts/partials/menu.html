@@ -12,14 +12,14 @@ Renders a menu for the given menu ID.
 {{- $menuID := .menuID }}
 
 {{- with index site.Menus $menuID }}
-  <nav class="navbar navbar-expand-lg  mt-5 mb-5">
+  <nav class="navbar navbar-expand-md  my-5">
     <div class="container-fluid">
       <a class="navbar-brand" href="/">{{ site.Title }}</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        <ul class="navbar-nav ms-auto mb-lg-0">
           {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
         </ul>
       </div>
@@ -51,9 +51,9 @@ Renders a menu for the given menu ID.
         {{- $name = . }}
       {{- end }}
     {{- end }}
-    {{- $listClass := "nav-item" }}
+    {{- $listClass := "nav-item px-1" }}
     {{- if .HasChildren }}
-        {{- $listClass = "nav-item dropdown" }}
+        {{- $listClass = "nav-item px-1 dropdown" }}
     {{- end }}
     {{- if .Parent }}
       {{- $listClass = "" }}
