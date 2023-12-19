@@ -65,7 +65,7 @@
     {{- if .Parent }}
       {{- $listClass = "" }}
     {{ end }}
-    <li {{- if ne $listClass "" }}class="{{- $listClass }}"{{- end }}>
+    <li {{- if ne $listClass "" }} class="{{- $listClass }}"{{- end }}>
       <a
         {{- range $k, $v := $linkAttrs }}
           {{- with $v }}
