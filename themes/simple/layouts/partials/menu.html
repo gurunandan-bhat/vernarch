@@ -1,13 +1,13 @@
 {{/* Go Template */}}
 {{- /*
-Renders a menu for the given menu ID.
+  Renders a menu for the given menu ID.
 
-@context {page} page The current page.
-@context {string} menuID The menu ID.
+  @context {page} page The current page.
+  @context {string} menuID The menu ID.
 
-@example: {{ partial "menu.html" (dict "menuID" "main" "page" .) }}
+  @example: {{ partial "menu.html" (dict "menuID" "main" "page" .)
+}}
 */}}
-
 {{- $page := .page }}
 {{- $menuID := .menuID }}
 
@@ -15,7 +15,14 @@ Renders a menu for the given menu ID.
   <nav class="navbar navbar-expand-md  my-5">
     <div class="container-fluid">
       <a class="navbar-brand" href="/">{{ site.Title }}</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-bs-toggle="collapse"
+        data-bs-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -33,7 +40,7 @@ Renders a menu for the given menu ID.
     {{- $linkAttrs := dict "href" .URL }}
     {{- if $page.IsMenuCurrent .Menu . }}
       {{- $linkAttrs = merge $linkAttrs (dict "class" "active" "aria-current" "page") }}
-    {{- else if $page.HasMenuCurrent .Menu .}}
+    {{- else if $page.HasMenuCurrent .Menu . }}
       {{- $linkAttrs = merge $linkAttrs (dict "class" "ancestor" "aria-current" "true") }}
     {{- end }}
     {{- if .Parent }}
@@ -42,7 +49,7 @@ Renders a menu for the given menu ID.
       {{- if .HasChildren }}
         {{- $linkAttrs = merge $linkAttrs (dict "class" "nav-link dropdown-toggle" "role" "button" "data-bs-toggle" "dropdown" "aria-expanded" "false") }}
       {{- else }}
-          {{- $linkAttrs = merge $linkAttrs (dict "class" "nav-link") }}
+        {{- $linkAttrs = merge $linkAttrs (dict "class" "nav-link") }}
       {{- end }}
     {{- end }}
     {{- $name := .Name }}
@@ -53,23 +60,25 @@ Renders a menu for the given menu ID.
     {{- end }}
     {{- $listClass := "nav-item px-1" }}
     {{- if .HasChildren }}
-        {{- $listClass = "nav-item px-1 dropdown" }}
+      {{- $listClass = "nav-item px-1 dropdown" }}
     {{- end }}
     {{- if .Parent }}
       {{- $listClass = "" }}
     {{ end }}
-    <li {{- if ne $listClass "" }} class="{{- $listClass }}"{{- end }} >
-      <a {{- range $k, $v := $linkAttrs }}
+    <li {{- if ne $listClass "" }}class="{{- $listClass }}"{{- end }}>
+      <a
+        {{- range $k, $v := $linkAttrs }}
           {{- with $v }}
             {{- printf " %s=%q" $k $v | safeHTMLAttr }}
           {{- end }}
         {{- end -}}
-      >{{ $name }}</a>
+        >{{ $name }}</a
+      >
       {{- with .Children }}
         <ul class="dropdown-menu">
           {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
         </ul>
       {{- end }}
     </li>
-    {{- end }}
+  {{- end }}
 {{- end }}

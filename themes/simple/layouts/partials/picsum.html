@@ -1,6 +1,11 @@
-{{/* Go Template */}} {{- $width := .width }} {{- $height := .height }} {{- $url
-:= (print "https://picsum.photos/" $width "/" $height) }} {{- with
-resources.GetRemote $url }} {{- with .Err }} {{- errorf "%s" . }} {{- else }}
-<img src="{{ .RelPermalink }}" class="img-fluid pb-3" alt="" />
-{{- end }} {{- else }} {{- errorf "Unable to get remote resource %q" $url }} {{-
-end }}
+{{/* Go Template */}} {{- $width := .width }} {{- $height := .height }}
+{{- $url := (print "https://picsum.photos/" $width "/" $height) }}
+{{- with resources.GetRemote $url }}
+  {{- with .Err }}
+    {{- errorf "%s" . }}
+  {{- else }}
+    <img src="{{ .RelPermalink }}" class="img-fluid pb-3" alt="" />
+  {{- end }}
+{{- else }}
+  {{- errorf "Unable to get remote resource %q" $url }}
+{{- end }}

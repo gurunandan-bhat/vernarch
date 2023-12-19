@@ -1,60 +1,59 @@
 {{ define "main" }}
-<div class="row">{{- partial "carousel.html" . }}</div>
-<hr class="mb-6" />
-<div class="row pt-6">
+  <div class="row">{{- partial "carousel.html" . }}</div>
+  <hr class="mb-6" />
+  <div class="row pt-6">
     <div class="col-md-6">
-        <h2>Reviews</h2>
-        {{- range .Params.review }}
+      <h2>Reviews</h2>
+      {{- range .Params.review }}
         <div class="review pb-3">
-            <h3>
-                <i class="fa-solid fa-quote-left fa-lg hue"></i>
-                {{- .text | markdownify }}
-                <i class="fa-solid fa-quote-right fa-lg hue"></i>
-            </h3>
-            <h6>{{- .author | markdownify }}</h6>
+          <h3>
+            <i class="fa-solid fa-quote-left fa-lg hue"></i>
+            {{- .text | markdownify }}
+            <i class="fa-solid fa-quote-right fa-lg hue"></i>
+          </h3>
+          <h6>{{- .author | markdownify }}</h6>
         </div>
-        {{- end }}
-        <hr class="pb-4" />
+      {{- end }}
+      <hr class="pb-4" />
     </div>
     <div class="col-md-6">{{- .Content }}</div>
-</div>
-<!--info boxes-->
-<div class="row intro">
+  </div>
+  <!--info boxes-->
+  <div class="row intro">
     {{- range .Site.Data.home.intro }}
-    <div class="col-md-3">
+      <div class="col-md-3">
         <div class="text-center">
-            <i class="{{- .icon }} display-6"></i>
+          <i class="{{- .icon }} display-6"></i>
         </div>
         <h5 class="text-center">{{- .title }}</h5>
         <p>{{- .text }}</p>
-    </div>
+      </div>
     {{ end }}
-</div>
-<!--//info boxes-->
+  </div>
+  <!--//info boxes-->
 
-<div class="row pt-5">
+  <div class="row pt-5">
     <h3>Browse Regions</h3>
-    {{- $intros := where .Site.RegularPages "Section" "regions" }} 
+    {{- $intros := where .Site.RegularPages "Section" "regions" }}
     {{- range sort $intros ".Params.sortOrder" }}
-    <div class="col-md-2">
+      <div class="col-md-2">
         <img
-            src="/images/regions/{{- .Params.summaryImage }}"
-            width="100%"
-            alt="..."
-            class="pb-2"
-        />
+          src="/images/regions/{{- .Params.summaryImage }}"
+          width="100%"
+          alt="..."
+          class="pb-2" />
         <h5 class="text-center">
-            <a href="{{- .RelPermalink }}">{{- .LinkTitle }}</a>
+          <a href="{{- .RelPermalink }}">{{- .LinkTitle }}</a>
         </h5>
-        <h6>Covers {{ delimit .Params.includeStates ", " " and "}}</h6>
+        <h6>Covers {{ delimit .Params.includeStates ", " " and " }}</h6>
         <p class="small">
-            {{ .Summary }}
-            <a href="{{- .RelPermalink }}"
-                ><i class="fa-solid fa-angles-right"></i
-            ></a>
+          {{ .Summary }}
+          <a href="{{- .RelPermalink }}"
+            ><i class="fa-solid fa-angles-right"></i
+          ></a>
         </p>
-    </div>
+      </div>
     {{ end }}
     <hr />
-</div>
-{{end}}
+  </div>
+{{ end }}
