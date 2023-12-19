@@ -12,7 +12,7 @@ multi-storeyed concrete residences due to shortage and high price of land, along
 natural division of families. Shortage of natural building material like timber and stone has
 not helped either. It is futile to think that there can be a mass revival of vernacular styles with
 their easy use of space and lesser density of residents.
-{{< figure src="/images/essays/z vernacular adaptation, Kerala ......... 01.png" caption="A traditional Indian courtyard form adapted into a modern house, Trivandrum" width="100%" >}}
+{{< figure src="/images/essays/z vernacular adaptation, Kerala ......... 01.png" caption="A traditional Indian courtyard form adapted into a modern house, Trivandrum" width="100%" class="essay-image" class="essay-image" >}}
 Some of the best examples of vernacular residential architecture have already been pulled
 down and their impressions erased forever. The nearly hundred-year old Sanderson
 committee report, as described in the previous chapter, had already mentioned the dwindling
@@ -42,7 +42,7 @@ and the native cooks, help and mistresses removed to an outhouse). Indian vernac
 buildings techniques were bound to decline in such circumstances with no official support or
 promotion.
 
-{{< figure src="/images/essays/2.png" caption="Vernacular style structures being made at Doni, Uttarkashi, Uttarakhand. Houses in this area are still being made in this traditional style. These double-walled timber-bonded stone structures are very sturdy and withstand earthquakes which often visit this region. The wood joinery is in the customary manner without the use of nails and iron. The space between the double walls is filled with rubble for insulation in this cold region. Wood carving techniques are still alive and embellish mainly temple exteriors" width="100%" >}}
+{{< figure src="/images/essays/2.png" caption="Vernacular style structures being made at Doni, Uttarkashi, Uttarakhand. Houses in this area are still being made in this traditional style. These double-walled timber-bonded stone structures are very sturdy and withstand earthquakes which often visit this region. The wood joinery is in the customary manner without the use of nails and iron. The space between the double walls is filled with rubble for insulation in this cold region. Wood carving techniques are still alive and embellish mainly temple exteriors" width="100%" class="essay-image" >}}
 Adoption of western architectural styles was also done by Indians who preferred the foreign
 style as what they thought was a mark of distinction. An in-between stage was also there
 when house owners would have an Indian façade for the exterior but from inside the spaces
@@ -74,7 +74,7 @@ by the Ahmedabad Wood Carving Company. One of the promoters of this company was
 Lockwood de Forest who was from New York and he took these designs further across
 the seas to North America. Soon many residential interiors in Europe and America took
 to Indian woodwork for decoration and panels, including haveli style bay windows.
-{{< figure src="/images/essays/Birkha Bawari 5666.png" caption="Birkha Bawari, a modern stepwell, built in 2009. Designed by Jodhpur based architect A. Mridul, it is a stepwell style water storage system in a housing township, Umaid Heritage, in the desert city of Jodhpur. Built to address severe water scarcity in the region, it has a capacity to collect 17.5 million litres of harvested runoff rain water from the site. ‘Birkha’ means ‘rain’ in the local dialect and ‘Bawari’ means a stepwell. Taking cues from ancient subterranean water buildings of the Indian sub-continent, the linear and the square step-wells, it has been designed as a combination of both the variants. Built of site-quarried red sandstone with a unique structural system of arcuated walls, it is an average of 12 meters wide, 227 meters long and 18 meters at its deepest end." width="100%" >}}
+{{< figure src="/images/essays/Birkha Bawari 5666.png" caption="Birkha Bawari, a modern stepwell, built in 2009. Designed by Jodhpur based architect A. Mridul, it is a stepwell style water storage system in a housing township, Umaid Heritage, in the desert city of Jodhpur. Built to address severe water scarcity in the region, it has a capacity to collect 17.5 million litres of harvested runoff rain water from the site. ‘Birkha’ means ‘rain’ in the local dialect and ‘Bawari’ means a stepwell. Taking cues from ancient subterranean water buildings of the Indian sub-continent, the linear and the square step-wells, it has been designed as a combination of both the variants. Built of site-quarried red sandstone with a unique structural system of arcuated walls, it is an average of 12 meters wide, 227 meters long and 18 meters at its deepest end." width="100%" class="essay-image" >}}
 Other Indian architectural elements like domes, arches and fresco decorative techniques
 also followed. Even theatres and hotels took a fancy to this newly imported flavour and
 replicated styles and patterns from Jain and Hindu temples as well. However, this was a
@@ -96,7 +96,7 @@ urban plots of land came to have an assortment of plans rubbing shoulders with e
 manors. Even specific examples were targeted and Monticello, Thomas Jefferson’s house, was
 a favourite of the nouveau riche.
 
-{{< figure src="/images/essays/02.png" caption="A modern house in Kerala designed on the features of a traditional nalukettu, with a courtyard inside. The main door latch is in the old style but newly made, as well as the surface decoration of another door." width="100%" >}}
+{{< figure src="/images/essays/02.png" caption="A modern house in Kerala designed on the features of a traditional nalukettu, with a courtyard inside. The main door latch is in the old style but newly made, as well as the surface decoration of another door." width="100%" class="essay-image" >}}
 
 With space becoming more scarce even these were soon replaced by high-density flats
 and other concrete boxes. The vernacular courtyard house became a thing of the past for
@@ -139,7 +139,7 @@ relate to the life style of the local people’ and to review the performance of
 Kendras. Based on the recommendations of this committee the norms of the scheme were
 modified to make them more popular.
 
-{{< figure src="/images/essays/22 Gujarat, Kachchh, Banni 12.png" caption="Bhungas at Ludiya, Kachchh, Gujarat. The circular plan and lightweight thatch roof make for an ideal earthquake resistant design." width="100%" >}}
+{{< figure src="/images/essays/22 Gujarat, Kachchh, Banni 12.png" caption="Bhungas at Ludiya, Kachchh, Gujarat. The circular plan and lightweight thatch roof make for an ideal earthquake resistant design." width="100%" class="essay-image" >}}
 
 It may be mentioned that traditional vernacular design does not necessarily translate into
 appropriate, low cost, technology. The Chettiar mansions in the villages known as Chettinad
@@ -214,7 +214,7 @@ construct than modern houses – about a quarter less expensive than modern conc
 construction. It did take some time, by demonstration, for people to witness the comfort of
 such adobe abodes and start asking for one to be designed and built for themselves.
 
-{{< figure src="/images/essays/14 Himachal, Kangra, new mud houses 24.png" caption="Adapted mud house at Kangra. Didi Contractor’s revival of the traditional Kangra houses made of mud, bamboo, wood and stone – adapted to the scale of modern houses – has become a movement in Kangra, Himachal Pradesh. One such house made by her." width="100%" >}}
+{{< figure src="/images/essays/14 Himachal, Kangra, new mud houses 24.png" caption="Adapted mud house at Kangra. Didi Contractor’s revival of the traditional Kangra houses made of mud, bamboo, wood and stone – adapted to the scale of modern houses – has become a movement in Kangra, Himachal Pradesh. One such house made by her." width="100%" class="essay-image" >}}
 
 The most notable mud house in Kangra is that of Norah Richards, who spent sixty years
 there promoting drama and culture. Her estate is at Andretta and many artists also set up

@@ -27,7 +27,7 @@ the Banjara traders of the north-west Indian plains. The Banjaras were also supp
 victuals to armies and their camps used to be heavily guarded to protect their goods, with
 their bullock-carts parked in a circular manner for defensive purposes.
 
-{{< figure src="/images/essays/a Khanabadosh, Gadia Lohar 08.png" caption="A camp of itinerant Gadia Lohar blacksmiths in Junagadh district, Gujarat. Their name literally means blacksmiths-with-carts. They wander in the rural as well as urban countryside doing job-work, with all their belongings piled high in wooden carts. They originated from Rajasthan but are now found all over western India. They camp under the sky and every few days hit the road again for more job-work." width="100%" >}}
+{{< figure src="/images/essays/a Khanabadosh, Gadia Lohar 08.png" caption="A camp of itinerant Gadia Lohar blacksmiths in Junagadh district, Gujarat. Their name literally means blacksmiths-with-carts. They wander in the rural as well as urban countryside doing job-work, with all their belongings piled high in wooden carts. They originated from Rajasthan but are now found all over western India. They camp under the sky and every few days hit the road again for more job-work." width="100%" class="essay-image" >}}
 
 While some of these are fully wandering tribes, most have houses where they return to
 as a part of an annual cycles for marriage and community functions. Some walk on foot
@@ -45,7 +45,7 @@ their carts. The Bharwad pastoralists of western Gujarat surround their camps wi
 bushes where they put their animals for the night after they come back from grazing while
 one corner has all their belongings neatly piled on to a cot.
 
-{{< figure src="/images/essays/a Khanabadosh, North Gujarat, Vanjhara camp 02.png" caption="The Banjara are wandering traders and artisans. They also do levelling of fields with their donkeys. Above: An Od family of Gujarat on the move. They move with their belongings, including their poultry tied to cots placed on donkeys. The Od are also earth-workers of Gujarat in western India." width="100%" >}}
+{{< figure src="/images/essays/a Khanabadosh, North Gujarat, Vanjhara camp 02.png" caption="The Banjara are wandering traders and artisans. They also do levelling of fields with their donkeys. Above: An Od family of Gujarat on the move. They move with their belongings, including their poultry tied to cots placed on donkeys. The Od are also earth-workers of Gujarat in western India." width="100%" class="essay-image" >}}
 
 Some shepherds and camel herders like the Rajasthani Rabari have a separate enclosure of
 thorny bushes for their animals while they themselves pitch camp in a clearing in a field.
@@ -64,7 +64,7 @@ and through winter and summer they wear outfits of handloom cloth made from hand
 yarn from the wool of their animals. This cloth is dyed black with tie-and-dye motifs and
 designs. Lean-tos made for protecting them from the elements are also made from this cloth.
 
-{{< figure src="/images/essays/13 Gujarat, Junagadh, Charan 03.png" caption="Charan huts, Gujarat.They are made of bent bamboo strips covered with fabric made from discarded jute gunny bags or twigs, supported by a pole in the center. These light structures used by these nomadic communities are easy to dismantle and transport in their wanderings." width="100%" >}}
+{{< figure src="/images/essays/13 Gujarat, Junagadh, Charan 03.png" caption="Charan huts, Gujarat.They are made of bent bamboo strips covered with fabric made from discarded jute gunny bags or twigs, supported by a pole in the center. These light structures used by these nomadic communities are easy to dismantle and transport in their wanderings." width="100%" class="essay-image" >}}
 
 The material used for the tents and camps of Khanabadosh wanderers depend on local
 availability. The nomads of the Himalayas use tents made from yarn hand-spun from yak
