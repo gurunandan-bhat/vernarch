@@ -45,6 +45,20 @@ figcaption {
     color: #555;
 }
 
+figure {
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: #2e2e2e;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+figcaption p {
+    font-size: 0.9rem;
+    color: #3f3f3f !important;
+    
+    margin-bottom: 0;
+}
 .blockquote {
     font-family: "Source Sans Pro", sans-serif;
     font-weight: 700;
@@ -99,6 +113,7 @@ a:focus {
 p {
     margin-bottom: 15px;
 }
+
 .page-header {
     border-bottom: 0px none;
 }

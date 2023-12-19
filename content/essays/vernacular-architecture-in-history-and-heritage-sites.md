@@ -13,11 +13,13 @@ orderly planning of structures in the towns. Visible today in the excavations at
 remains of residential dwellings in circular and rectangular designs, complete with stepwells
 and water storage tanks.
 
+{{< figure src="/images/essays/sanchi architrave shortened.png" caption="Vernacular architecture depicted in Indian archaeological sites. Fort and palace depicted in the sculptures of a gate at the Sanchi stupa and a dwelling in the countryside" width="100%" >}}
 Caves, in particular in western India, are all that remains of the earliest monumental
 architecture, of which vihara caves were used for residences by Buddhist monks, apart from
 chaitya or prayer hall caves, with elaborate stone carvings and paintings as at Ajanta. The
 circulation spaces were according designed and the chaitya caves had large front windows
 with wooden screens to let the light in to the inner recesses of the caves.
+
 
 The materials used in historical vernacular buildings were mud and burnt bricks, timber,
 stone, bamboo, thatch and tiles. Timber seems to be the primary material, but nothing
@@ -25,7 +27,9 @@ remains of the wood-cutting and joinery techniques except what is visible in the
 Karle, Kondane and Bedsa, which show that wood-crafting techniques had reached a very
 high level of perfection. Some of these caves, which were constructed 1500 to 2000 years
 ago, still have the wooden ribbed ceiling of exceptionally well crafted teak members, without
-the use of nails. That wood was predominantly used for construction, whether residential or
+the use of nails. 
+{{< figure src="/images/essays/a historical, Ajanta, cave 4, 01.png" caption="Cave at Ajanta, Aurangabad, Maharashtra: An unfinished cave that depicts the laborious manner in which the caves were carved out of stone – scooped out and the roof chiselled to a plain surface. The columns were in the process of getting carved capitals when the construction seems to have been stopped." width="100%" >}}
+That wood was predominantly used for construction, whether residential or
 monumental, is very obvious because even when temples and caves were carved out of stone,
 the eaves and ceilings had replica beams and rafters carved out of the stone, as would have
 been done in wooden structures, even though they were not required structurally. The earliest
@@ -36,6 +40,7 @@ wood that even when working with stone they fashioned it that way. Another reaso
 be that they wanted to make structures of a more permanent nature – stone instead of wood
 – but wanted to give it the same form of wooden structures.
 
+{{< figure src="/images/essays/Ajanta dancing girl spread.png" caption="Wall painting inside Cave 1, Ajanta. Apart from the Buddhist scenes depicted, insight is there in the paintings of details of the architectural elements used in structures of that time. The columns are plain wooden ones with stone bases and their circular capitals are painted with mineral colours. A tent is also depicted in one mural. This famous painting of a dancing girl performing has pavilions with wooden eaves, columns" width="100%" >}}
 Till recently, in parts of southern India, intricate wood based designs were still living
 traditions like in the nalukettu vernacular houses and these are also found in the stone
 temples of some centuries ago, indicating a continuing link between stone and wood
@@ -57,7 +62,7 @@ The Ajanta and Bagh mural themes are Buddhist but even in the earliest Hindu mur
 Badami caves, though fragmentary, the column elements are the same, as also in the Jain wall
 paintings at Ellora. This indicates that the vocabulary of architecture was similar in the major
 religions, centuries ago.
-
+{{< figure src="/images/essays/A historical, Kondane caves, 01.png" caption="Cave at Kondane: The wooden window and ribbing, showing the wood craftsmanship of fifteen centuries ago. Also visible are the beams and rafters cut in stone in imitation of wood structures of that time. The wooden ribbing in the chaitya caves serves no structural purpose but was put there because of the ingrained wood construction techniques prevailing at that time." width="100%" >}}
 The skills that were used to construct these cave residences were advanced even by present
 standards. The earliest caves of Barabar (300 BC) carved out in a granite mountain have a
 surface finish that still shines as if it was made yesterday. This finish is up to about standing
