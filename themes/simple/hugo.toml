@@ -49,14 +49,19 @@ weight = 150
 parent = "Regions"
 
 [[menus.main]]
+name = 'Essays'
+pageRef = '/essays'
+weight = 30
+
+[[menus.main]]
 name = 'Buy the Book'
 pageRef = '/shop'
-weight = 30
+weight = 40
 
 [[menus.main]]
 name = 'About'
 pageRef = '/shop'
-weight = 40
+weight = 50
 
 [module]
   [module.hugoVersion]
