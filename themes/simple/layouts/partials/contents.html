@@ -1,0 +1,30 @@
+{{- $section := .section }}
+{{- $type := .type }}
+<div class="row pt-5">
+  <h3>{{- $section | humanize }}</h3>
+  {{- $regions := where .context.Site.RegularPages "Section" $section }}
+  {{- range sort $regions ".Params.sortOrder" }}
+    <div class="col-md">
+      <img
+        src="/images/{{- $section }}/{{- .Params.summaryImage }}"
+        width="100%"
+        alt="..."
+        class="pb-2" />
+      <h5 class="text-center">
+        <a href="{{- .RelPermalink }}">{{- .LinkTitle }}</a>
+      </h5>
+      {{- if eq $type "full" }}
+        {{- with .Params.includeStates }}
+          <h6>Covers {{ delimit . ", " " and " }}</h6>
+        {{- end }}
+        <p class="small">
+          {{ .Summary }}
+          <a href="{{- .RelPermalink }}"
+            ><i class="fa-solid fa-angles-right"></i
+          ></a>
+        </p>
+      {{- end }}
+    </div>
+  {{ end }}
+  <hr />
+</div>

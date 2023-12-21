@@ -31,53 +31,6 @@
     {{ end }}
   </div>
   <!--//info boxes-->
-
-  <div class="row pt-5">
-    <h3>Regions</h3>
-    {{- $regions := where .Site.RegularPages "Section" "regions" }}
-    {{- range sort $regions ".Params.sortOrder" }}
-      <div class="col-md-2">
-        <img
-          src="/images/regions/{{- .Params.summaryImage }}"
-          width="100%"
-          alt="..."
-          class="pb-2" />
-        <h5 class="text-center">
-          <a href="{{- .RelPermalink }}">{{- .LinkTitle }}</a>
-        </h5>
-        <h6>Covers {{ delimit .Params.includeStates ", " " and " }}</h6>
-        <p class="small">
-          {{ .Summary }}
-          <a href="{{- .RelPermalink }}"
-            ><i class="fa-solid fa-angles-right"></i
-          ></a>
-        </p>
-      </div>
-    {{ end }}
-    <hr />
-  </div>
-
-  <div class="row pt-5">
-    <h3>Essays</h3>
-    {{- $essays := where .Site.RegularPages "Section" "essays" }}
-    {{- range sort $essays ".Params.sortOrder" }}
-      <div class="col-md-3">
-        <img
-          src="/images/essays/{{- .Params.summaryImage }}"
-          width="100%"
-          alt="..."
-          class="pb-2" />
-        <h5 class="text-center">
-          <a href="{{- .RelPermalink }}">{{- .LinkTitle }}</a>
-        </h5>
-        <p class="small">
-          {{- .Summary }}
-          <a href="{{- .RelPermalink }}"
-            ><i class="fa-solid fa-angles-right"></i
-          ></a>
-        </p>
-      </div>
-    {{ end }}
-    <hr />
-  </div>
-{{ end }}
+  {{- partial "contents.html" (dict "context" . "section" "regions" "type" "full") }}
+  {{- partial "contents.html" (dict "context" . "section" "essays" "type" "full") }}
+{{- end }}
