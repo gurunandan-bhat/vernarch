@@ -31,6 +31,6 @@
     {{ end }}
   </div>
   <!--//info boxes-->
-  {{- partial "contents.html" (dict "context" . "section" "regions" "type" "full") }}
-  {{- partial "contents.html" (dict "context" . "section" "essays" "type" "full") }}
+  {{- partial "contents.html" (dict "context" . "section" "regions" "full" true) }}
+  {{- partial "contents.html" (dict "context" . "section" "essays" "full" true) }}
 {{- end }}
