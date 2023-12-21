@@ -2,6 +2,7 @@
 title = 'Vernacular Architecture in History and Heritage Sites'
 date = 2023-12-19T13:03:30+05:30
 headerImg = '/images/essays/cave 1 pano bestttt.png'
+summaryImage = 'a historical, Dholavira 01.png'
 draft = false
 +++
 

@@ -18,7 +18,7 @@ caption = '**Houses in Srinagar** The local houses use exposed bricks without pl
 src = 'JK, Kargil, a01.png'
 caption = '**Monastery and shelter at Shergol, Ladakh.** Made in a cavern in a limestone hill with a wooden bridge connecting its two sides.'
 [[sidebarImg]]
-src = 'JK, Ladakh, Leh 03.png'
+src = 'JK, Ladakh, Leh 02.png'
 caption = '**A traditional house above Leh, Ladakh** This structure has typical Buddhist features and detail – balconies cantilevered on wooden logs and painted with traditional patterns. A central courtyard with a mast for prayer flags is there and the stairwell gets light from windows on one side, which also falls on the mural on the wall opposite it. The roof is supported by logs on which a frame of bamboo pieces supports a layer of insulating earth.'
 [[sidebarImg]]
 src = 'JK, Zanskar, Phuktal 5.png'

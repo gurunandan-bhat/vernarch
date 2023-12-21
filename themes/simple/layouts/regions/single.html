@@ -5,7 +5,7 @@
     <h1 class="text-end hue mt-5">{{ .Title }}</h1>
     <h5 class="float-end text-end mb-5 text-secondary lh-sm w-25">
         {{- with .Params.includeStates }} 
-        Covers the states of {{- delimit . ", " " and " }}
+        Covers the states of {{ delimit . ", " " and " }}
         {{- end }}
     </h5>
 </div>

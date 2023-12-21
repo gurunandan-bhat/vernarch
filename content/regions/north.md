@@ -16,7 +16,7 @@ caption = '**Residences on the banks of the Ganges** Many rich families and prin
 src = 'UP, Varanasi, Ganges ghats 01.png'
 caption = '**Vernacular residences at Vrindavan, Uttar Pradesh** Right, top: A haveli with a covered balcony above the entrance gate.'
 [[sidebarImg]]
-src = 'Punjab, Bagrian, slides 03.png'
+src = 'Punjab, Bagrian, slides  03.png'
 caption = '**The Bagrian haveli, Punjab** Traditionally, houses with a courtyard were called ‘haveli’ in north India. This is a huge haveli made of bricks with many courtyards (photograph from the outer courtyard). The family head was given magisterial powers during the British times, hence the lock-up next to the internal main gate.'
 [[sidebarImg]]
 src = '056 C1 (15).png'

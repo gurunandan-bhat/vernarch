@@ -2,6 +2,7 @@
 title = 'Living Traditions and the Future of Vernacular Architecture'
 date = 2023-12-19T12:43:47+05:30
 headerImg = '/images/essays/z Colonial, British, Chapslee, Simla 02.png'
+summaryImage = 'Birkha bawri 01.png'
 draft = false
 +++
 

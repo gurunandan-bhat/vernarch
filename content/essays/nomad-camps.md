@@ -3,6 +3,7 @@ title = 'Khanabadosh or Nomad Camps'
 date = 2023-12-19T13:08:00+05:30
 draft = false
 headerImg = '/images/essays/a Khanabadosh, Ladakh, Changpa 01.png'
+summaryImage = 'a Khanabadosh, Gadia Lohar 02.png'
 +++
 
 This book is on traditional residential architecture but it is interesting to explore how
