@@ -1,32 +1,36 @@
 {{ define "main" }}
-<img src="{{ .Params.headerImg }}" class="img-fluid" />
-<hr />
-<div class="clearfix">
+  <img src="{{ .Params.headerImg }}" class="img-fluid" />
+  <hr />
+  <div class="clearfix">
     <h1 class="text-end hue mt-5">{{ .Title }}</h1>
     <h5 class="float-end text-end mb-5 text-secondary lh-sm w-25">
-        {{- with .Params.includeStates }} 
-        Covers the states of {{ delimit . ", " " and " }}
-        {{- end }}
+      {{- with .Params.includeStates }}
+        Covers the states of
+        {{ delimit . ", " " and " }}
+      {{- end }}
     </h5>
-</div>
-<div class="row">
+  </div>
+  <div class="row">
     <div class="col-md-5">
-        <h6 class="mb-3 text-black-50 lh-sm">
-            This chapter is spread across {{ .Params.pages }} pages
-            with {{ .Params.images }} hi-resolution colour images
-        </h6>
-        {{ $baseName := .Page.File.BaseFileName }}
-        {{ $type := .Page.Type }}
-        {{- range .Params.sidebarImg }}
-            <figure class="figure">
-                <img src="/images/{{- $type }}/{{- $baseName }}/{{- .src }}" class="img-fluid w-100" />
-                <figcaption class="figure-caption pb-5">
-                    {{- .caption | markdownify }}
-                </figcaption>
-        {{- end }}
+      <h6 class="mb-3 text-black-50 lh-sm">
+        This chapter is spread across {{ .Params.pages }} pages with
+        {{ .Params.images }} hi-resolution colour images
+      </h6>
+      {{ $baseName := .Page.File.BaseFileName }}
+      {{ $type := .Page.Type }}
+      {{- range .Params.sidebarImg }}
+        <figure class="figure">
+          <img
+            src="/images/{{- $type }}/{{- $baseName }}/{{- .src }}"
+            class="img-fluid w-100" />
+          <figcaption class="figure-caption pb-1">
+            {{- .caption | markdownify }}
+          </figcaption>
+        </figure>
+      {{- end }}
     </div>
     <div class="col-md-7">
-        {{ .Content }}
+      {{ .Content }}
     </div>
-</div> 
+  </div>
 {{ end }}
