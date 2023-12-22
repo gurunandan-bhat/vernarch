@@ -1,11 +1,11 @@
 {{- $section := .section }}
 {{- $full := .full }}
-{{- $currentPage := .Page }}
+{{- $currentPage := .context.Page }}
 <div class="row pt-2">
   <h3>{{- $section | humanize }}</h3>
   {{- $regions := where .context.Site.RegularPages "Section" $section }}
   {{- range sort $regions ".Params.sortOrder" }}
-    {{ if not (.Page.Eq $currentPage) }}
+    {{ if not (.Eq $currentPage) }}
       <div {{ if $full }}class="col-md"{{- end }}>
         <img
           src="/images/{{- $section }}/{{- .Params.summaryImage }}"
