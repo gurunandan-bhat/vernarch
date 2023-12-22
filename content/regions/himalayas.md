@@ -24,9 +24,6 @@ caption = '**A traditional house above Leh, Ladakh** This structure has typical 
 src = 'JK, Zanskar, Phuktal 5.png'
 caption = '**The monastery at Phugtal, Zanskar** Emanating from a huge cave, this is one of the oldest in Zanskar, very picturesquely situated and, at present, reached by a day’s trek from Padam, the head-quarter town of Zanskar, A narrow path leads up to it from the left face of the mountain and the individual monks’ residences are constructed on the steep incline of the mountain, using stone and mud blocks.'
 [[sidebarImg]]
-src = 'Uttarkhand, Almora 008.png'
-caption = '**Vernacular town house structures in Almora, Uttarakhand.** Built shoulder-to-shoulder, these residences of traders and merchants with wooden façades are in the main bazaar with multiple windows for interaction with the street below'
-[[sidebarImg]]
 src = 'Sikkim, Geyzing 03.png'
 caption = '**A prominent family’s estate in Geysing, West Sikkim** A large mansion painted in brilliant Buddhist motifs and colours. The woodwork and columns of the verandah, the side door and jambs of the doors are finely carved'
 +++
@@ -95,6 +92,8 @@ the same. Lahaul also has a Hindu population and their houses differ from the Bu
 ones to an extent. In the foot-hills of Himachal an interesting heritage village in Himachal
 Pradesh is Pragpur, with a number of styles varying from traditional vernacular to some with
 an admixture of colonial inputs.
+
+{{< figure src="/images/regions/Uttarkhand, Almora 008.png" caption="**Vernacular town house structures in Almora, Uttarakhand.** Built shoulder-to-shoulder, these residences of traders and merchants with wooden façades are in the main bazaar with multiple windows for interaction with the street below" width="100%" class="essay-image" >}}
 
 {{<blockquote position="right">}}there are considerable design differences between the urban and rural houses and the
 latter would have a place for the family animals right under the house with a trap door in

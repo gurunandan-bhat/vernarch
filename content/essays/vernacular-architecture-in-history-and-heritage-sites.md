@@ -2,10 +2,10 @@
 title = 'Vernacular Architecture in History and Heritage Sites'
 date = 2023-12-19T13:03:30+05:30
 headerImg = '/images/essays/cave 1 pano bestttt.png'
+listImage = '/images/essays/a historical, Ajanta, cave 1, 300 AD 03.png'
 summaryImage = 'a historical, Dholavira 01.png'
 draft = false
 +++
-
 
 Though not much remains of residential dwellings in historical times, archaeological
 excavations and Indian art history give many clues about the vernacular architecture in those
@@ -21,14 +21,13 @@ chaitya or prayer hall caves, with elaborate stone carvings and paintings as at 
 circulation spaces were according designed and the chaitya caves had large front windows
 with wooden screens to let the light in to the inner recesses of the caves.
 
-
 The materials used in historical vernacular buildings were mud and burnt bricks, timber,
 stone, bamboo, thatch and tiles. Timber seems to be the primary material, but nothing
 remains of the wood-cutting and joinery techniques except what is visible in the caves of
 Karle, Kondane and Bedsa, which show that wood-crafting techniques had reached a very
 high level of perfection. Some of these caves, which were constructed 1500 to 2000 years
 ago, still have the wooden ribbed ceiling of exceptionally well crafted teak members, without
-the use of nails. 
+the use of nails.
 {{< figure src="/images/essays/a historical, Ajanta, cave 4, 01.png" caption="Cave at Ajanta, Aurangabad, Maharashtra: An unfinished cave that depicts the laborious manner in which the caves were carved out of stone – scooped out and the roof chiselled to a plain surface. The columns were in the process of getting carved capitals when the construction seems to have been stopped." width="100%" class="essay-image" >}}
 That wood was predominantly used for construction, whether residential or
 monumental, is very obvious because even when temples and caves were carved out of stone,

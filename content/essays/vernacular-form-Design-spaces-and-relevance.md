@@ -2,6 +2,7 @@
 title = 'Vernacular Form, Design, Spaces and Relevance'
 date = 2023-12-19T12:52:29+05:30
 headerImg = '/images/essays/a historical, Chittorgarh tower architects 01.png'
+listImage = '/images/essays/Chattisgarh, Rajwar tribe, Sarguja  05.png'
 summaryImage = '_ND20016.png'
 draft = false
 +++
