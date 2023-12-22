@@ -28,9 +28,6 @@ caption = '**A vernacular nalukettu style residence behind the Padmanabhapuram p
 src = 'TN, Chettinad 08.png'
 caption = '**Chettiar vernacular residence** Sitting platform facing the inner courtyard in a . The columns are of Burmese teak.'
 [[sidebarImg]]
-src = 'TN, Chettinad 13.png'
-caption = '**Chettiar vernacular houses, Chettinad, Tamil Nadu.** The rooms around the courtyard are connected by a covered peristyle'
-[[sidebarImg]]
 src = '1 Karnataka, Kukanoor, Kamal Mahal (Manipal Mus.) 04 from backup.png'
 [[sidebarImg]]
 src = '4 Karnataka, Kukanoor, Kamal Mahal (Manipal Mus.) 08 from backup.png'
@@ -55,7 +52,7 @@ Nambuthiri Brahmins’ illams and Mappilah Muslim houses. The earliest, of cours
 very unusual huts of the Toda community. In Hyderabad the term haveli applies to a palace
 and there are smaller buildings, the deori, with courtyards, and also garden houses in rural
 areas with haveli features.
-
+{{< figure src="/images/regions/TN, Ooty, Toda 02.png" caption="Houses of the Toda community in the Nilgiri mountains, Tamil Nadu. These are vaulted huts made of bent bamboo and grass with a low entrance. The hut on the right is a Toda temple." width="100%" class="essay-image" >}}
 The Toda huts have a vaulted appearance and its front is almost in the shape of a Buddhist
 chaitya window, the shape being given by a bent bamboo structure over which a roof grass
 is placed, in the form of the upper part of a horizontal cylinder. The front is made of flat
@@ -88,7 +85,7 @@ allow in air for circulation in the storerooms and the rest of the structure, th
 completed through the courtyard. A nalukettu implies a single courtyard (four corners) while
 an ettukutta has two courtyards (eight corners). For effective air circulation as well as privacy
 the verandah used inter-linked curved struts with spaces in between.
-
+{{< figure src="/images/regions/Kerala, nalekutta, slides 04.png" caption="A vernacular nalukettu style residence behind the Padmanabhapuram palace, Kerala" width="100%" class="essay-image" >}}
 {{< blockquote position="right">}}earlier in Kerala tiles were used only by the rulers and even
 the British had to take permission to use tiles for their buildings. Later their usage became
 common and factories were set up to mass produce them, hence their name Mangalore tiles.{{< /blockquote >}} The rural nalukettu compound had a cowshed separate from the main house and had all the
@@ -99,6 +96,8 @@ the British had to take permission to use tiles for their buildings. Later their
 common and factories were set up to mass produce them, hence their name Mangalore tiles.
 In Tamil Nadu are the remarkable courtyard mansions of the Chettiars, a community of
 traders and businessmen that once had extensive mercantile links with southeast Asia.
+
+{{< figure src="/images/regions/TN, Chettinad 13.png" caption="Chettiar vernacular houses, Chettinad, Tamil Nadu. The rooms around the courtyard are connected by a covered peristyle" width="100%" class="essay-image" >}}
 
 From the nine initial families in the same number of villages, the Chettiars are now
 spread over seventy-eight villages, out of which fifty-eight are in Ramnadu and twenty in
@@ -114,6 +113,8 @@ next to the entrance. The last courtyard, which is the least ornate, is meant fo
 and opens into the rear service lane common to two rows of houses. Massive columns of
 polished teak, imported earlier from Burma, surround the courtyards, specially the main one
 (muttaram). The pillars have wooden or stone bases.
+
+{{< figure src="/images/regions/TN, Chettinad 15.png" caption="Dining and living rooms in a Chettiar mansion, including one with clerestory windows above the upper storey passage around the space, for letting in more light." width="100%" class="essay-image" >}}
 
 {{< blockquote position="left">}}Massive columns of polished teak, imported earlier from Burma, surround the courtyards, specially the main one
 (muttaram) &hellip; traders had business establishments in Burma and South Asia but they built these lavish houses in their home towns{{< /blockquote >}} Necessary for their trading occupation, extensive storage space was made available by constructing cellars and storage rooms and adequate guest rooms. The dining room is a

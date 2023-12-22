@@ -1,0 +1,39 @@
+{{ define "main" }}
+  <img src="{{- .Params.headerImg }}" class="img-fluid" />
+  <hr />
+  <h1>{{- .Title }}</h1>
+  <h4>List Template</h4>
+  <div class="row">
+    <div class="col-md-8">{{- .Content }}</div>
+  </div>
+  {{ range $i, $p := .Pages }}
+    <div class="row">
+      {{- if math.ModBool $i 2 }}
+        <div class="offset-md-2 col-md-4">
+          <img src="{{- $p.Params.listImage }}" class="img-fluid" />
+        </div>
+        <div class="col-md-4">
+          <div class="mb-2">
+            <h4><a href="{{- $p.RelPermalink }}">{{- $p.LinkTitle }}</a></h4>
+            {{ .Summary }} <a href="{{- .RelPermalink }}"
+            ><i class="fa-solid fa-angles-right"></i
+          ></a>
+          </div>
+        </div>
+      {{- else }}
+        <div class="offset-md-2 col-md-4">
+          <div class="mb-2">
+            <h4><a href="{{- $p.RelPermalink }}">{{- $p.LinkTitle }}</a></h4>
+            {{ .Summary }} <a href="{{- .RelPermalink }}"
+            ><i class="fa-solid fa-angles-right"></i
+          ></a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <img src="{{- $p.Params.listImage }}" class="img-fluid" />
+        </div>
+      {{- end }}
+      <hr class="mt-3 offset-md-2 col-md-8" />
+    </div>
+  {{- end }}
+{{- end }}

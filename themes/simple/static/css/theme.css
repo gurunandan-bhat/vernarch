@@ -56,9 +56,13 @@ figure.essay-image {
 figcaption.essay-image p {
   font-size: 0.9rem;
   color: #3f3f3f !important;
-
   margin-bottom: 0;
 }
+
+figcaption p {
+  margin-bottom: 0;
+}
+
 .blockquote {
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 700;

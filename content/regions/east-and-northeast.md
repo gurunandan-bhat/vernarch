@@ -33,6 +33,8 @@ other architectural feature anywhere in the world has been so widely adapted as 
 bangla or bangaldar hut. Complete architectural structures have been adapted to this graceful
 form, in whole or in parts, like bangaldar roofs and eaves.
 
+{{< figure src="/images/regions/WBengal, banglas, 005.png" caption="A sentry post made in the shape of a bangaldar hut, Kolkatta" width="100%" class="essay-image" >}}
+
 The bangla hut roof was earlier made of split bamboo mats, bonded with mud and covered
 with thatch or straw, which has now been replaced with corrugated iron sheets. Internally,
 bamboo is used for support and the top is curved with overhanging sides for quick runoff for
@@ -42,7 +44,9 @@ illustrated in this work are black and white photographs of some such earlier hu
 archives of the Anthropological Survey of India, Kolkata. The present country huts of Bengal
 have not only switched over to corrugated sheets for the curvilinear roof, but have even
 become double-storeyed, with a verandah on the upper floor, though the characteristic slopes
-of the roof and walls still remain.{{<blockquote position="right">}}the typical vernacular forms range from huts to large houses
+of the roof and walls still remain.
+
+{{<blockquote position="right">}}the typical vernacular forms range from huts to large houses
 made of stone, wood and thatch, with some like the Naga huts having surface decoration
 and carvings on the wood according to their beliefs and traditions.{{</blockquote>}}
 
@@ -53,6 +57,8 @@ there, like courtyards and bangaldar hut forms.
 The vernacular styles of residential structures in the north-east Indian states have a great variety
 due to the large number of tribes and communities in each state, with different religions,
 beliefs and social norms.
+
+{{< figure src="/images/regions/WBengal, Kolkatta 6.png" caption="Courtyard in Shobha Bazaar Rajbari." width="100%" class="essay-image" >}}
 
 The religions in that region range from tribal animistic to Hinduism,
 Buddhism and Christianity, with the features of the houses attuned to the local weather, physical
