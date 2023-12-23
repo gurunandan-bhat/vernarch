@@ -70,6 +70,15 @@ figcaption p {
   margin: 0px;
 }
 
+p.lead {
+  font-family: "Lora", serif;
+  font-style: italic;
+  font-weight: 400;
+  padding: 20px 0px;
+  line-height: 1.75rem;
+  color: #6e6e6e;
+}
+
 .blockquote strong {
   font-style: italic;
   color: #5e5e5e;

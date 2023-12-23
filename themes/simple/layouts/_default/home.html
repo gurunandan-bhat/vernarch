@@ -1,23 +1,33 @@
 {{ define "main" }}
   <div class="row">{{- partial "carousel.html" . }}</div>
   <hr class="mb-6" />
-  <div class="row pt-6">
-    <div class="col-md-6">
-      <h2>Reviews</h2>
-      {{- range .Params.review }}
-        <div class="review pb-3">
-          <h3>
-            <i class="fa-solid fa-quote-left fa-lg hue"></i>
-            {{- .text | markdownify }}
-            <i class="fa-solid fa-quote-right fa-lg hue"></i>
-          </h3>
-          <h6>{{- .author | markdownify }}</h6>
+  <div class="container col-xxl-8 px-4 py-5">
+    <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
+      <div class="col-10 col-sm-8 col-lg-6">
+        <img
+          src="/images/home/14 nov Cover 16 bit image 119 mb TSR done.png"
+          class="d-block mx-lg-auto img-fluid"
+          alt="Bootstrap Themes"
+          width="100%"
+          loading="lazy" />
+      </div>
+      <div class="col-lg-6">
+        <h1 class="display-5 fw-bold text-body-emphasis mb-3">
+          The Vernacular Architecture of India
+        </h1>
+        <h2>Tejinder S. Randhawa</h2>        
+        <p class="lead">
+          An encyclopedic compendium, based on over a decade of research and travel, documenting and photographing the indigenous architecture of the people of India, that captures the vast diversity of social and environmental needs and preferences, in dwellings built from locally available material with locally available skills.
+        </p>
+        <div class="d-grid gap-2 d-md-flex justify-content-md-start">
+          <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">
+            <span style="font-family:'Fira Sans'">Order the Book</span>
+          </button>
         </div>
-      {{- end }}
-      <hr class="pb-4" />
+      </div>
     </div>
-    <div class="col-md-6">{{- .Content }}</div>
   </div>
+
   <!--info boxes-->
   <div class="row intro">
     {{- range .Site.Data.home.intro }}
@@ -31,6 +41,13 @@
     {{ end }}
   </div>
   <!--//info boxes-->
+
+  <div class="row pt-6">
+    <div class="col-md-6">
+      {{- partial "reviews.html" }}
+    </div>
+  </div>
+
   {{- partial "contents.html" (dict "context" . "section" "regions" "full" true) }}
   {{- partial "contents.html" (dict "context" . "section" "essays" "full" true) }}
 {{- end }}

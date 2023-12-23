@@ -17,16 +17,12 @@ carousel = [
     "163 I (1).png",
     "best green patan.png",
 ]
-[[review]]
+[[reviews]]
 text = "&hellip;a _monumental_ undertaking with in-depth analysis and over _1,600 excellent photos_ by the author on \"traditional residential styles and spaces\" adapted to different climates, regions, materials and historic influences."
 author = """--- Andre Aranha Correa do Lago  
 (former Brazilian Ambassador to India and jury member, Pritzker Prize for Architecture)"""
-[[review]]
+[[reviews]]
 text = '&hellip; _incredible resource for architects, art and architectural historians and enthusiasts_. Until I received the book, it was unimaginable that any single book could include the _diverse vernacular architecture styles_ of a large country like India&hellip; that this book is a product of _several decades of painstaking documentation_ also means that many of these buildings no longer exist. It is a _must have for every architect and architecture school_ and for anyone interested in Indian Heritage.'
 author = """--- Ratish Nanda   
 (noted Conservation Architect and Director, Aga Khan Trust for Culture)"""
 +++
-
-Laborum voluptate pariatur ex culpa magna nostrud est incididunt fugiat
-pariatur do dolor ipsum enim. Consequat tempor do dolor eu. Non id id anim anim
-excepteur excepteur pariatur nostrud qui irure ullamco.

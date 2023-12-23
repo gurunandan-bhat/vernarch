@@ -1,0 +1,13 @@
+{{- $reviews := site.Home.Params.reviews }}
+<h2>Reviews</h2>
+{{- range $reviews }}
+  <div class="review pb-3">
+    <h3>
+      <i class="fa-solid fa-quote-left fa-lg hue"></i>
+      {{- .text | markdownify }}
+      <i class="fa-solid fa-quote-right fa-lg hue"></i>
+    </h3>
+    <h6>{{- .author | markdownify }}</h6>
+  </div>
+{{- end }}
+<hr class="pb-4" />
