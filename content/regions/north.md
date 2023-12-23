@@ -36,7 +36,7 @@ of India who brought with them their tastes and styles. The banks of the Ganges 
 are lined with residences of princely states, erstwhile nobles and rich traders who wanted
 to have a place in this holy city. They opened out to a view of the holy river and have steps
 leading to the waters
-{{< figure src="/images/regions/Delhi 3.png" caption="The famous poet Mirza Ghalib’s haveli. Though this building has been restored and renovated, it still retains some character of what it must have been earlier. The entrance ceiling is vaulted with generous use of arches in its construction" width="100%" class="essay-image" >}}
+{{< figure src="/images/regions/Delhi 3.png" caption="**The famous poet Mirza Ghalib’s Haveli** Though this building has been restored and renovated, it still retains some character of what it must have been earlier. The entrance ceiling is vaulted with generous use of arches in its construction" width="100%" class="essay-image" >}}
 {{<blockquote position="right">}}the banks of the Ganges in Varanasi
 are lined with residences of princely states, erstwhile nobles and rich traders who wanted
 to have a place in this holy city.{{</blockquote>}} A typical haveli in north India has a number of courtyards. The primary entrance has massive
@@ -47,7 +47,7 @@ were given magisterial powers by the British. This is also the area where the bu
 could be parked and dealings done with traders. Cows and buffaloes are tethered in the
 outer courtyard or have a separate area. After passing through another gate one enters the
 residential quarters, with or without a separate zenana, or women’s area.
-{{< figure src="/images/regions/UP, Vrindavan 01.png" caption="A joint family’s huge haveli with a long balcony running all along its length and rooms for shops on the ground floor" width="100%" class="essay-image" >}}
+{{< figure src="/images/regions/UP, Vrindavan 01.png" caption="**A joint family’s huge haveli** with a long balcony running all along its length and rooms for shops on the ground floor" width="100%" class="essay-image" >}}
 The haveli residences of Punjab (including present day Haryana) gave priority to robustness
 and protection over ornamentation. The reason is that invaders came through this northwest
 region of India and ransacked the country on their way in and out. Local marauders
@@ -72,7 +72,7 @@ operations. Sleeping areas in summer were the open roofs, with water sprinkled i
 summer months. The lower floors generally had storage rooms. Surface ornamentation to the
 façade was done with moulded bricks.
 
-{{< figure src="/images/regions/UP, Varanasi 08.png" caption="Varanasi, Haveli Courtyard" width="100%" class="essay-image" >}}
+{{< figure src="/images/regions/UP, Varanasi 08.png" caption="**Varanasi, Haveli Courtyard**" width="100%" class="essay-image" >}}
 
 In the Gangetic plains of Uttar Pradesh the rural folk had simple huts with thatched
 roofs and mud mortar, with rice-paste decoration. The landlords had typical havelis with
@@ -81,7 +81,7 @@ Vrindavan. The Muslim havelis of Jaunpur have their own flavour. Surprisingly no
 remains of the aristocratic haveli residences in Lucknow as the British destroyed many old
 houses and monuments after the 1857 Indian war for Independence. Dharamshalas and
 sarais were also made for travellers and pilgrims, with large courtyards for their use.
-{{< figure src="/images/regions/UP, Jaunpur 03.png" caption="**Vernacular houses in Kannauj and Jaunpur in Uttar Pradesh.** These residences are both Hindu and Muslim, in the traditional haveli style with courtyards. They have circling, extended, balconies and since the main entrances are touching the street they are raised to prevent the entry of dust into the house with sitting spaces to chat with acquaintances passing by." width="100%" class="essay-image" >}}
+{{< figure src="/images/regions/UP, Jaunpur 03.png" caption="**Vernacular houses in Kannauj and Jaunpur in Uttar Pradesh** These residences are both Hindu and Muslim, in the traditional haveli style with courtyards. They have circling, extended, balconies and since the main entrances are touching the street they are raised to prevent the entry of dust into the house with sitting spaces to chat with acquaintances passing by." width="100%" class="essay-image" >}}
 The town houses were more compact and sometimes without a courtyard. Some fine houses
 in Amritsar have carved wooden entrances with painted niches showing Guru Nanak and
 Mardana and other religious themes. The paintings could be eclectic and often there would

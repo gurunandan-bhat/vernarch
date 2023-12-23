@@ -57,7 +57,7 @@ headquarters of Zanskar region. Padam is situated in a vast amphitheatre of moun
 with monasteries perched on some of them. Another day’s trek from Padam is the historical
 Phugtal monastery, very picturesquely built inside a huge cave in a mountain with the houses
 of the monks all around it on a steep incline.
-{{< figure src="/images/regions/JK, Zanskar, Padam 01.png" caption="Houses at Padam, Zanskar. Houses in the vast amphitheatre of mountains as one reaches Padam. The style is typically Buddhist and simple, with tapering walls to add to their strength when under snow, when the flat rooftops are themain working areas." width="100%" class="essay-image" >}}
+{{< figure src="/images/regions/JK, Zanskar, Padam 01.png" caption="**Houses at Padam, Zanskar** Houses in the vast amphitheatre of mountains as one reaches Padam. The style is typically Buddhist and simple, with tapering walls to add to their strength when under snow, when the flat rooftops are themain working areas." width="100%" class="essay-image" >}}
 The typical Buddhist house has a level roof that becomes the working area in the long
 snowbound winter and is also used for storage. The walls are of compacted mud with timber
 bonding for strength. Cantilevered wooden bay windows contrast with the mud walls,
@@ -71,7 +71,7 @@ Kangra use slate pieces as it is locally available, thus making the house relati
 graceful old houses of Manali are made from huge deodar logs, the ends of which cantilever
 out to form balconies. The window supports are gracefully carved. A good number of these
 stately houses still survive in the Manali area.
-{{< figure src="/images/regions/JK, Ladakh 1.png" caption="Agriculturists’ houses, Leh. These are constructed with working areas on the ground in summer and on the roof for winter, including storage of firewood. The corner windows let in light bi-directionally. Loose stones make up the boundary" width="100%" class="essay-image" >}}
+{{< figure src="/images/regions/JK, Ladakh 1.png" caption="**Agriculturists’ Houses, Leh** These are constructed with working areas on the ground in summer and on the roof for winter, including storage of firewood. The corner windows let in light bi-directionally. Loose stones make up the boundary" width="100%" class="essay-image" >}}
 In Himachal Pradesh, from the Rohtang pass to the adobe houses of Lahaul on the north and
 Kunzum pass downstream of the river Chenab, are the summer pasture lands of the nomadic
 Gaddi shepherds of Himachal Pradesh, which continue to the beautiful Chandratal lake,
@@ -93,7 +93,7 @@ ones to an extent. In the foot-hills of Himachal an interesting heritage village
 Pradesh is Pragpur, with a number of styles varying from traditional vernacular to some with
 an admixture of colonial inputs.
 
-{{< figure src="/images/regions/Uttarkhand, Almora 008.png" caption="**Vernacular town house structures in Almora, Uttarakhand.** Built shoulder-to-shoulder, these residences of traders and merchants with wooden façades are in the main bazaar with multiple windows for interaction with the street below" width="100%" class="essay-image" >}}
+{{< figure src="/images/regions/Uttarkhand, Almora 008.png" caption="**Vernacular town house structures in Almora, Uttarakhand** Built shoulder-to-shoulder, these residences of traders and merchants with wooden façades are in the main bazaar with multiple windows for interaction with the street below" width="100%" class="essay-image" >}}
 
 {{<blockquote position="right">}}there are considerable design differences between the urban and rural houses and the
 latter would have a place for the family animals right under the house with a trap door in

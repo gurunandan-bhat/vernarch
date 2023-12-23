@@ -23,8 +23,10 @@
           <img
             src="/images/{{- $type }}/{{- $baseName }}/{{- .src }}"
             class="img-fluid w-100" />
-          <figcaption class="figure-caption pb-1">
-            {{- .caption | markdownify }}
+          <figcaption class="pb-1">
+            <p>
+              {{- .caption | markdownify }}
+            </p>
           </figcaption>
         </figure>
       {{- end }}
