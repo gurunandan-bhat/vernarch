@@ -1,7 +1,7 @@
 {{ define "main" }}
   <div class="row">{{- partial "carousel.html" . }}</div>
   <hr class="mb-6" />
-  <div class="container col-xxl-8 px-4 py-5">
+  <div class="container col-xxl-10 px-4 py-5">
     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
       <div class="col-10 col-sm-8 col-lg-6">
         <img
@@ -15,9 +15,16 @@
         <h1 class="display-5 fw-bold text-body-emphasis mb-3">
           The Vernacular Architecture of India
         </h1>
-        <h2>Tejinder S. Randhawa</h2>        
+        <h2>Tejinder S. Randhawa</h2>
         <p class="lead">
-          An encyclopedic compendium, based on over a decade of research and travel, documenting and photographing the indigenous architecture of the people of India, that captures the vast diversity of social and environmental needs and preferences, in dwellings built from locally available material with locally available skills.
+          An encyclopedic compendium, based on over a decade of research and
+          travel, documenting and photographing the indigenous architecture of
+          the people of India.
+        </p>
+        <p class="lead">
+          The book captures the vast diversity of social and environmental needs
+          and preferences, in dwellings built from locally available material
+          with locally available skills.
         </p>
         <div class="d-grid gap-2 d-md-flex justify-content-md-start">
           <button type="button" class="btn btn-primary btn-lg px-4 me-md-2">
@@ -29,22 +36,26 @@
   </div>
 
   <!--info boxes-->
-  <div class="row intro">
-    {{- range .Site.Data.home.intro }}
-      <div class="col-md-3">
-        <div class="text-center">
-          <i class="{{- .icon }} display-6"></i>
+  <div class="container">
+    <div class="row intro">
+      {{- range .Site.Data.home.intro }}
+        <div class="col-md-3">
+          <div class="text-center">
+            <i class="{{- .icon }} display-6"></i>
+          </div>
+          <h5 class="text-center">{{- .title }}</h5>
+          <p>{{- .text }}</p>
         </div>
-        <h5 class="text-center">{{- .title }}</h5>
-        <p>{{- .text }}</p>
-      </div>
-    {{ end }}
+      {{ end }}
+    </div>
   </div>
   <!--//info boxes-->
 
-  <div class="row pt-6">
-    <div class="col-md-6">
-      {{- partial "reviews.html" }}
+  <div class="container">
+    <div class="row pt-6">
+      <div class="col-md-6">
+        {{- partial "reviews.html" }}
+      </div>
     </div>
   </div>
 
