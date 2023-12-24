@@ -1,5 +1,5 @@
 +++
-title = 'Home'
+title = 'Vernacular Architecture of India - The Book'
 date = 2023-01-01T08:00:00-07:00
 draft = false
 carousel = [

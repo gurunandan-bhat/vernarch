@@ -1,5 +1,5 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Vernacular Architecture of India'
+title = 'vernacular-architecture.in'
 theme = 'simple'
 summaryLength = 20

@@ -54,13 +54,13 @@ pageRef = '/essays'
 weight = 30
 
 [[menus.main]]
-name = 'Buy the Book'
+name = 'Order Book'
 pageRef = '/shop'
 weight = 40
 
 [[menus.main]]
 name = 'About'
-pageRef = '/shop'
+pageRef = '/about'
 weight = 50
 
 [module]

@@ -1,6 +1,21 @@
 {{ define "main" }}
   <img src="{{- .Params.headerImg }}" class="img-fluid" />
   <hr />
-  <h1>{{- .Title }}</h1>
-  {{- .Content }}
+  <div class="row mt-5">
+    <div class="col-md-6">
+      <img src="{{- .Params.authorImage }}" class="img-fluid" />
+      <div class="row py-5">
+        <h4>Other Books in the Heritage Series by T. S. Randhawa</h4>
+        {{- range .Params.otherBooks }}
+          <div class="col py-2">
+            <img src="/images/about/{{- . }}" class="img-fluid" />
+          </div>
+        {{- end }}
+      </div>
+    </div>
+    <div class="col-md-6">
+      <h1>{{- .Title }}</h1>
+      {{- .Content }}
+    </div>
+  </div>
 {{- end }}

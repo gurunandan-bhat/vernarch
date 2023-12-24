@@ -59,7 +59,7 @@ figcaption p {
 }
 
 .blockquote {
-  font-family: "Lora", sans-serif;
+  font-family: "Lora", serif;
   font-weight: 600;
   font-style: italic;
   width: inherit;
@@ -68,15 +68,6 @@ figcaption p {
   color: #c71e1e;
   padding: 30px 0;
   margin: 0px;
-}
-
-p.lead {
-  font-family: "Lora", serif;
-  font-style: italic;
-  font-weight: 400;
-  margin: 15px 0px;
-  line-height: 1.75rem;
-  color: #6e6e6e;
 }
 
 .blockquote strong {
@@ -93,6 +84,27 @@ p.lead {
   float: right !important;
   padding-left: 30px;
 }
+
+.review h3 {
+  font-family: "Lora", serif;
+  font-style: italic;
+}
+
+h2.lead {
+  color: #c71e1e;
+  font-weight: 500;
+  font-size: 25px;
+}
+
+p.lead {
+  font-family: "Lora", serif;
+  font-style: italic;
+  font-weight: 400;
+  margin: 30px 0px;
+  line-height: 1.75rem;
+  color: #6e6e6e;
+}
+
 
 a,
 input,
@@ -201,7 +213,7 @@ h6 {
 }
 
 h3 em {
-  font-style: normal;
+  font-style: italic;
   color: #c71e1e;
 }
 
@@ -674,8 +686,7 @@ input[type="text"]:focus,
   padding-top: 30px;
   margin-top: 60px;
   color: #666;
-  line-height: 16px;
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Fira Sans", sans-serif;
   font-size: smaller;
 }
 #footer li {
