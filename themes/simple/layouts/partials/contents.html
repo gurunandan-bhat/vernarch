@@ -1,8 +1,9 @@
 {{- $section := .section }}
 {{- $full := .full }}
 {{- $currentPage := .context.Page }}
+{{- $sectionLink := (.context.Site.GetPage "section" $section).RelPermalink }}
 <div class="row pt-2">
-  <h3>{{- $section | humanize }}</h3>
+  <h3><a href="{{- $sectionLink }}">{{- $section | humanize }}</a></h3>
   {{- $regions := where .context.Site.RegularPages "Section" $section }}
   {{- range sort $regions ".Params.sortOrder" }}
     {{ if not (.Eq $currentPage) }}
