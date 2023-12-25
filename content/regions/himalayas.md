@@ -5,6 +5,7 @@ draft = false
 tags = ['red']
 summaryImage = "JK, Ladakh, Leh 01.png"
 headerImg = "/images/regions/himalayas/JK, Zanskar, Phuktal 3.png"
+listImage = '/images/regions/JK, Srinagar, Jhelum river front 03.png'
 includeStates = ['Kashmir', 'Ladakh', 'Zanskar', 'Himachal Pradesh', 'Uttarakhand', 'Sikkim']
 sortOrder = 1
 pages = 64

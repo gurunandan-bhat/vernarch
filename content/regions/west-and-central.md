@@ -4,6 +4,7 @@ date = 2023-01-15T09:00:00-07:00
 draft = false
 tags = ['red']
 summaryImage = "Rajasthan, Jaisalmer, Patua haveli slides 11.png"
+listImage = '/images/regions/Rajasthan, Udaipur, Bagore-ki-haveli 04.png'
 includeStates = ['Rajasthan', 'Gujarat', 'Maharashtra', 'Madhya Pradesh']
 sortOrder = 3
 headerImg = '/images/regions/west-and-central/Gujarat, Kachchh, Tunda wandh 02.png'

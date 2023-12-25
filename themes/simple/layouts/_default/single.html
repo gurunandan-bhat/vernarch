@@ -1,21 +1,40 @@
 {{ define "main" }}
   <img src="{{- .Params.headerImg }}" class="img-fluid" />
   <hr />
-  <div class="row mt-5">
+  <div class="clearfix">
+    <h1 class="text-end hue mt-5">{{ .Title }}</h1>
+    <h5 class="float-end text-end mb-5 text-secondary lh-sm w-25">
+      {{- with .Params.includeStates }}
+        Covers the states of
+        {{ delimit . ", " " and " }}
+      {{- end }}
+    </h5>
+  </div>
+  <div class="row">
     <div class="col-md-6">
-      <img src="{{- .Params.authorImage }}" class="img-fluid" />
-      <div class="row py-5">
-        <h4>Other Books in the Heritage Series by T. S. Randhawa</h4>
-        {{- range .Params.otherBooks }}
-          <div class="col py-2">
-            <img src="/images/about/{{- . }}" class="img-fluid" />
-          </div>
-        {{- end }}
-      </div>
+      {{- if .Params.pages }}
+      <h6 class="mb-3 text-black-50 lh-sm">
+        This chapter is spread across {{ .Params.pages }} pages with
+        {{ .Params.images }} hi-resolution colour images
+      </h6>
+      {{- end }}
+      {{ $baseName := .File.BaseFileName }}
+      {{ $section := .Section }}
+      {{- range .Params.sidebarImg }}
+        <figure class="figure">
+          <img
+            src="/images/{{- $section }}/{{- $baseName }}/{{- .src }}"
+            class="img-fluid w-100" />
+          <figcaption class="pb-1">
+            <p>
+              {{- .caption | markdownify }}
+            </p>
+          </figcaption>
+        </figure>
+      {{- end }}
     </div>
     <div class="col-md-6">
-      <h1>{{- .Title }}</h1>
-      {{- .Content }}
+      {{ .Content }}
     </div>
   </div>
 {{- end }}

@@ -1,0 +1,8 @@
+<div class="row py-1">
+  <h4>Other Books in the Heritage Series by T. S. Randhawa</h4>
+  {{- range $.Page.Params.otherBooks }}
+    <div class="col py-2">
+      <img src="/images/about/{{- . }}" class="img-fluid" />
+    </div>
+  {{- end }}
+</div>

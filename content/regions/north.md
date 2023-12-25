@@ -5,6 +5,7 @@ draft = false
 tags = ['red']
 summaryImage = "2017-12-23 13.35.16.png"
 headerImg = "/images/regions/north/Punjab, Bidowali, slides  05.png"
+listImage = '/images/regions/UP, Varanasi slides 01.png'
 includeStates = ['Punjab', 'Haryana', 'Delhi', 'Uttar Pradesh']
 sortOrder = 2
 pages = 30

@@ -5,6 +5,7 @@ draft = false
 tags = ['red']
 summaryImage = "Islands, Lakhshadweep 03.png"
 headerImg = '/images/regions/islands/Islands, Lakhshadweep 04.png'
+listImage = "/images/regions/Islands, Lakhshadweep 06.png"
 includeStates = ['Andamans', 'Nicobar', 'Lakshadweep']
 sortOrder = 6
 +++

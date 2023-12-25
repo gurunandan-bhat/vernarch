@@ -16,12 +16,12 @@
         This chapter is spread across {{ .Params.pages }} pages with
         {{ .Params.images }} hi-resolution colour images
       </h6>
-      {{ $baseName := .Page.File.BaseFileName }}
-      {{ $type := .Page.Type }}
+      {{ $baseName := .File.BaseFileName }}
+      {{ $section := .Section }}
       {{- range .Params.sidebarImg }}
         <figure class="figure">
           <img
-            src="/images/{{- $type }}/{{- $baseName }}/{{- .src }}"
+            src="/images/{{- $section }}/{{- $baseName }}/{{- .src }}"
             class="img-fluid w-100" />
           <figcaption class="pb-1">
             <p>

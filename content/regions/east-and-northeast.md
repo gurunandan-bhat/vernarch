@@ -4,6 +4,7 @@ date = 2023-01-15T09:00:00-07:00
 draft = false
 summaryImage = "Nagaland, tribe Pochury 01.png"
 headerImg = '/images/regions/east-and-northeast/Nagaland, tribe Chang 03.png'
+listImage = '/images/regions/Meghalaya, tribe Khasi 08.png'
 includeStates = ['Odisha', 'West Bengal', 'Assam', 'Meghalaya', 'Arunachal Pradesh', 'Manipur',
 'Mizoram', 'Nagaland']
 tags = ['red']
