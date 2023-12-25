@@ -798,15 +798,28 @@ input[type="text"]:focus,
   color: #555;
   text-decoration: none;
 }
-#footer .follow_us {
+#footer .follow_us-right {
   padding: 0px 0 5px 0;
   text-align: right;
 }
-#footer .follow_us a {
+
+#footer .follow_us-right {
+  padding: 0px 0 5px 0;
+  text-align: right;
+}
+
+#footer .follow_us-right a {
   color: #5f5f5f;
   font-size: 18px;
   margin-left: 20px;
 }
+
+#footer .follow_us-left a {
+  color: #5f5f5f;
+  font-size: 18px;
+  margin-right: 20px;
+}
+
 .follow_us ul,
 #footer ul {
   padding: 0;
