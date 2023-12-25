@@ -38,23 +38,7 @@
     </div>
   </div>
 
-  <!--info boxes-->
-  <div class="container">
-    <div class="row intro">
-      {{- range .Site.Data.home.intro }}
-        <div class="col-md-3">
-          <div class="text-center">
-            <i class="{{- .icon }} display-6"></i>
-          </div>
-          <h5 class="text-center">{{- .title }}</h5>
-          <p>{{- .text }}</p>
-        </div>
-      {{ end }}
-    </div>
-  </div>
-  <!--//info boxes-->
-
-  <div class="container">
+<div class="container">
     <div class="row pt-6">
       <div class="col-md-8 offset-lg-1">
         {{- partial "reviews.html" }}
