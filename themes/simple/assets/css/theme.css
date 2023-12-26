@@ -44,6 +44,7 @@ h6 {
 figcaption {
   font-family: "Fira Sans", sans-serif;
   color: #555;
+  font-size: 14px;
 }
 
 figure.essay-image {
@@ -54,8 +55,10 @@ figure.essay-image {
   margin-top: 10px;
 }
 
-figcaption p {
+.main-content figcaption p {
   margin-bottom: 0;
+  font-weight: normal !important;
+  font-size: 14px !important;
 }
 
 .blockquote {
@@ -825,6 +828,11 @@ input[type="text"]:focus,
   padding: 0;
   margin: 0;
   list-style: none;
+}
+
+.main-content p:first-child {
+  font-weight: 600;
+  font-size: 140%;
 }
 
 /***************************************************
