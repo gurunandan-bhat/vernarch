@@ -34,12 +34,11 @@ other architectural feature anywhere in the world has been so widely adapted as 
 bangla or bangaldar hut. Complete architectural structures have been adapted to this graceful
 form, in whole or in parts, like bangaldar roofs and eaves.
 
-{{< figure src="/images/regions/WBengal, banglas, 005.png" caption="A sentry post made in the shape of a bangaldar hut, Kolkatta" width="100%" class="essay-image" >}}
-
 The bangla hut roof was earlier made of split bamboo mats, bonded with mud and covered
 with thatch or straw, which has now been replaced with corrugated iron sheets. Internally,
 bamboo is used for support and the top is curved with overhanging sides for quick runoff for
-the heavy rains in that region, as well as for protection against the sun. Typically the eaves
+the heavy rains in that region, as well as for protection against the sun.
+{{< figure src="/images/regions/WBengal, banglas, 005.png" caption="A sentry post made in the shape of a bangaldar hut, Kolkatta" width="100%" class="essay-image" >}} Typically the eaves
 are also curved and deeper at the corners. Hardly any pure bangaldar huts remain today and
 illustrated in this work are black and white photographs of some such earlier huts from the
 archives of the Anthropological Survey of India, Kolkata. The present country huts of Bengal
@@ -76,7 +75,7 @@ They use slash and burn methods and build their huts in clearings on hillsides. 
 dwellings are frugal but even in their simplicity they are aware of the use of colour and basic
 patterns to break up the empty spaces on their mud walls, with locally available mineral
 colours. The roof material of their huts is thatch.
-
+{{< figure src="/images/regions/Assam, Karbi tribe.png" caption="Vernacular tribal residence in Assam: A Karbi tribe residence" width="100%" class="essay-image" >}}
 The different tribes of Arunachal Pradesh have designs for dwellings depending on the tribe’s
 preferences, needs and local materials available – ranging from small huts to the huge structures
 of the Galo tribe and the stone houses of the Monpa tribe around Tawang. The Apa Tani of
