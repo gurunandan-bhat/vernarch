@@ -40,92 +40,24 @@ src = '02 Goa, Hindu 99.png'
 caption = '**Maratha residence, Mudhol.** A finely made structure that is nearly two hundred years old. It has a double row of Maratha pillars resting on stone bases. Presently at the Hasta Shilpa Village, Manipal, Karnataka.'
 +++
 
-South India has a rich history of vernacular architecture, comprised as it is of the historical
-civilizations in the states of Tamil Nadu, Kerala, Karnataka and erstwhile Andhra Pradesh.
-Other influences were there due to the extensive Malabar and Coramandal (Cholamandal)
-coastline and trading links with the Romans, Arabs and other countries. It was a very eclectic
-architecture that prevailed and even the mosques were made in a local style.
+South India has a rich history of vernacular architecture, comprised as it is of the historical civilizations in the states of Tamil Nadu, Kerala, Karnataka and erstwhile Andhra Pradesh. Other influences were there due to the extensive Malabar and Coramandal (Cholamandal) coastline and trading links with the Romans, Arabs and other countries. It was a very eclectic architecture that prevailed and even the mosques were made in a local style.
 
-{{<blockquote position="right">}}influences were there due to the extensive Malabar and Coramandal (Cholamandal) coastline and trading links with the Romans, Arabs and other countries. It was a very eclectic
-architecture that prevailed and even the mosques were made in a local style.{{< /blockquote >}} The main vernacular house styles in south India are the nalukettu in Kerala, the huge
-mansions of the Chettiars in Tamil Nadu, the Kodagu ancestral homes in Coorg to the
-Nambuthiri Brahmins’ illams and Mappilah Muslim houses. The earliest, of course, were the
-very unusual huts of the Toda community. In Hyderabad the term haveli applies to a palace
-and there are smaller buildings, the deori, with courtyards, and also garden houses in rural
-areas with haveli features.
-{{< figure src="/images/regions/TN, Ooty, Toda 02.png" caption="**Houses of the Toda community in the Nilgiri mountains, Tamil Nadu** These are vaulted huts made of bent bamboo and grass with a low entrance. The hut on the right is a Toda temple." width="100%" class="essay-image" >}}
-The Toda huts have a vaulted appearance and its front is almost in the shape of a Buddhist
-chaitya window, the shape being given by a bent bamboo structure over which a roof grass
-is placed, in the form of the upper part of a horizontal cylinder. The front is made of flat
-planks and the entrance is narrow. Even their temples are built in the same style with an even
-narrower entrance to the shrine. In the later periods even though the material changed the
-shape remained the same. The government, when it made concrete huts for the community,
-let the shape remain the same as it was so ingrained in their roots.
+{{<blockquote position="right">}}influences were there due to the extensive Malabar and Coramandal (Cholamandal) coastline and trading links with the Romans, Arabs and other countries. It was a very eclectic architecture that prevailed and even the mosques were made in a local style.{{< /blockquote >}} The main vernacular house styles in south India are the nalukettu in Kerala, the huge mansions of the Chettiars in Tamil Nadu, the Kodagu ancestral homes in Coorg to the Nambuthiri Brahmins’ illams and Mappilah Muslim houses. The earliest, of course, were the very unusual huts of the Toda community. In Hyderabad the term haveli applies to a palace and there are smaller buildings, the deori, with courtyards, and also garden houses in rural areas with haveli features. {{< figure src="/images/regions/TN, Ooty, Toda 02.png" caption="**Houses of the Toda community in the Nilgiri mountains, Tamil Nadu** These are vaulted huts made of bent bamboo and grass with a low entrance. The hut on the right is a Toda temple." width="100%" class="essay-image" >}}
 
-{{<blockquote position="left">}}nalukettu structures are of wood or masonry, with carving in geometrical patterns on the wooden members. The sloping roof is tiled and has ornately carved gables. The nalukettu
-form of residence is also used by the matrilineal Nair family and since there is no rigid
-seclusion of women there is no equivalent of the zenana of the western Indian haveli{{< /blockquote >}} 
+The Toda huts have a vaulted appearance and its front is almost in the shape of a Buddhist chaitya window, the shape being given by a bent bamboo structure over which a roof grass is placed, in the form of the upper part of a horizontal cylinder. The front is made of flat planks and the entrance is narrow. Even their temples are built in the same style with an even narrower entrance to the shrine. In the later periods even though the material changed the shape remained the same. The government, when it made concrete huts for the community, let the shape remain the same as it was so ingrained in their roots.
 
-While the Chettiar houses are built on well-planned rectangular coordinates and have a
-number of large courtyards inside, the Kerala Nair vernacular house nalukettu (a house
-with a single courtyard) is a compact structure in a larger compound, next to a kullam, or
-bathing tank, and a shielded stairway led into it from the house for bathing in semi-privacy.
-Entry to the nalukettu is through a raised verandah, or poomukham, with built-in benches
-for visitors to sit on. The court in these houses is smaller than in the typical haveli but often
-has the classical impluvium, a rain water cistern in the center. The opening to the sky from
-the courtyard is also small and just enough to admit a moderate amount of light. The space
-around the courtyard is demarcated for activities like food preparation, eating or lounging,
-and is separated from the court by a low partition. One side corner is the puja area where
-images of deities are kept, in addition, occasionally, to a small temple in the compound.
+{{<blockquote position="left">}}nalukettu structures are of wood or masonry, with carving in geometrical patterns on the wooden members. The sloping roof is tiled and has ornately carved gables. The nalukettu form of residence is also used by the matrilineal Nair family and since there is no rigid seclusion of women there is no equivalent of the zenana of the western Indian haveli{{< /blockquote >}} While the Chettiar houses are built on well-planned rectangular coordinates and have a number of large courtyards inside, the Kerala Nair vernacular house nalukettu (a house with a single courtyard) is a compact structure in a larger compound, next to a kullam, or bathing tank, and a shielded stairway led into it from the house for bathing in semi-privacy. Entry to the nalukettu is through a raised verandah, or poomukham, with built-in benches for visitors to sit on. The court in these houses is smaller than in the typical haveli but often has the classical impluvium, a rain water cistern in the center. The opening to the sky from the courtyard is also small and just enough to admit a moderate amount of light. The space around the courtyard is demarcated for activities like food preparation, eating or lounging, and is separated from the court by a low partition. One side corner is the puja area where images of deities are kept, in addition, occasionally, to a small temple in the compound.
 
- The nalukettu structures are of wood or masonry, with carving in geometrical patterns on
-the wooden members. The sloping roof is tiled and has ornately carved gables. The nalukettu
-form of residence is also used by the matrilineal Nair family and since there is no rigid
-seclusion of women there is no equivalent of the zenana of the western Indian haveli, though
-there is a room in the nalukettu (as well as in the Chettiar homes) for women during certain
-periods. Wooden stairs lead to the storerooms above the ground floor. Screens in the gables
-allow in air for circulation in the storerooms and the rest of the structure, the circuit being
-completed through the courtyard. A nalukettu implies a single courtyard (four corners) while
-an ettukutta has two courtyards (eight corners). For effective air circulation as well as privacy
-the verandah used inter-linked curved struts with spaces in between.
-{{< figure src="/images/regions/Kerala, nalekutta, slides 04.png" caption="A vernacular nalukettu style residence behind the Padmanabhapuram palace, Kerala" width="100%" class="essay-image" >}}
-{{< blockquote position="right">}}earlier in Kerala tiles were used only by the rulers and even
-the British had to take permission to use tiles for their buildings. Later their usage became
-common and factories were set up to mass produce them, hence their name Mangalore tiles.{{< /blockquote >}} The rural nalukettu compound had a cowshed separate from the main house and had all the
-daily need trees and spices growing in the compound. At present all nalukettus use Mangalore
-tiles while earlier they had grass and thatch roofs. One such (now rare) nalukettu has also
-been illustrated. Incidentally, earlier in Kerala tiles were used only by the rulers and even
-the British had to take permission to use tiles for their buildings. Later their usage became
-common and factories were set up to mass produce them, hence their name Mangalore tiles.
-In Tamil Nadu are the remarkable courtyard mansions of the Chettiars, a community of
-traders and businessmen that once had extensive mercantile links with southeast Asia.
+ The nalukettu structures are of wood or masonry, with carving in geometrical patterns on the wooden members. The sloping roof is tiled and has ornately carved gables. The nalukettu form of residence is also used by the matrilineal Nair family and since there is no rigid seclusion of women there is no equivalent of the zenana of the western Indian haveli, though there is a room in the nalukettu (as well as in the Chettiar homes) for women during certain periods. Wooden stairs lead to the storerooms above the ground floor. Screens in the gables allow in air for circulation in the storerooms and the rest of the structure, the circuit being completed through the courtyard. A nalukettu implies a single courtyard (four corners) while an ettukutta has two courtyards (eight corners). For effective air circulation as well as privacy the verandah used inter-linked curved struts with spaces in between.
+
+{{< figure src="/images/regions/Kerala, nalekutta, slides 04.png" caption="A vernacular nalukettu style residence behind the Padmanabhapuram palace, Kerala" width="100%" class="essay-image" >}} {{< blockquote position="right">}}earlier in Kerala tiles were used only by the rulers and even the British had to take permission to use tiles for their buildings. Later their usage became common and factories were set up to mass produce them, hence their name Mangalore tiles.{{< /blockquote >}} The rural nalukettu compound had a cowshed separate from the main house and had all the daily need trees and spices growing in the compound. At present all nalukettus use Mangalore tiles while earlier they had grass and thatch roofs. One such (now rare) nalukettu has also been illustrated. Incidentally, earlier in Kerala tiles were used only by the rulers and even the British had to take permission to use tiles for their buildings. Later their usage became common and factories were set up to mass produce them, hence their name Mangalore tiles. In Tamil Nadu are the remarkable courtyard mansions of the Chettiars, a community of traders and businessmen that once had extensive mercantile links with southeast Asia.
 
 {{< figure src="/images/regions/TN, Chettinad 13.png" caption="**Chettiar vernacular houses, Chettinad, Tamil Nadu** The rooms around the courtyard are connected by a covered peristyle" width="100%" class="essay-image" >}}
 
-From the nine initial families in the same number of villages, the Chettiars are now
-spread over seventy-eight villages, out of which fifty-eight are in Ramnadu and twenty in
-Thirumangalam-Puddukottai districts. The plan of a typical Chettiar village is a formal
-rectangular grid and all the courtyards are laid along a central axis from the front to the
-back so that standing at the front door one can see the back entrance. The raised entrance
-to a typical house leads to a verandah (thinnai) that is used for receiving guests during
-celebrations and marriages, where musicians and guests would be seated.
+From the nine initial families in the same number of villages, the Chettiars are now spread over seventy-eight villages, out of which fifty-eight are in Ramnadu and twenty in Thirumangalam-Puddukottai districts. The plan of a typical Chettiar village is a formal rectangular grid and all the courtyards are laid along a central axis from the front to the back so that standing at the front door one can see the back entrance. The raised entrance to a typical house leads to a verandah (thinnai) that is used for receiving guests during celebrations and marriages, where musicians and guests would be seated.
 
-After the ornately carved main door in a Chettiar house there are a series of huge and well
-laid out courtyards. The first one is the grandest with a sitting platform, or pattagasalai,
-next to the entrance. The last courtyard, which is the least ornate, is meant for the servants
-and opens into the rear service lane common to two rows of houses. Massive columns of
-polished teak, imported earlier from Burma, surround the courtyards, specially the main one
-(muttaram). The pillars have wooden or stone bases.
+After the ornately carved main door in a Chettiar house there are a series of huge and well laid out courtyards. The first one is the grandest with a sitting platform, or pattagasalai, next to the entrance. The last courtyard, which is the least ornate, is meant for the servants and opens into the rear service lane common to two rows of houses. Massive columns of polished teak, imported earlier from Burma, surround the courtyards, specially the main one (muttaram). The pillars have wooden or stone bases.
 
 {{< figure src="/images/regions/TN, Chettinad 15.png" caption="**Dining and living rooms in a Chettiar mansion** including one with clerestory windows above the upper storey passage around the space, for letting in more light." width="100%" class="essay-image" >}}
 
-{{< blockquote position="left">}}Massive columns of polished teak, imported earlier from Burma, surround the courtyards, specially the main one
-(muttaram) &hellip; traders had business establishments in Burma and South Asia but they built these lavish houses in their home towns{{< /blockquote >}} Necessary for their trading occupation, extensive storage space was made available by constructing cellars and storage rooms and adequate guest rooms. The dining room is a
-big hall where the entire family sits on the floor to eat. There is fine carving on the doors
-and wall panels in the rooms are adorned with paintings from the myths. The jambs and
-lintels are carved and stucco work is there on the walls and ceilings. Mortar was used for
-construction of the thick walls (which also kept the houses cool) and security was of prime
-consideration as the men would often be away on their trading sojourns. The traders had
-business establishments in Burma and South Asia but they built these lavish houses in their
-home towns only. The front of the house had ornamentation in plaster and gargoyles with
-European influence.
+{{< blockquote position="left">}}Massive columns of polished teak, imported earlier from Burma, surround the courtyards, specially the main one (muttaram) &hellip; traders had business establishments in Burma and South Asia but they built these lavish houses in their home towns{{< /blockquote >}} Necessary for their trading occupation, extensive storage space was made available by constructing cellars and storage rooms and adequate guest rooms. The dining room is a big hall where the entire family sits on the floor to eat. There is fine carving on the doors and wall panels in the rooms are adorned with paintings from the myths. The jambs and lintels are carved and stucco work is there on the walls and ceilings. Mortar was used for construction of the thick walls (which also kept the houses cool) and security was of prime consideration as the men would often be away on their trading sojourns. The traders had business establishments in Burma and South Asia but they built these lavish houses in their home towns only. The front of the house had ornamentation in plaster and gargoyles with European influence.

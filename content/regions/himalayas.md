@@ -29,97 +29,26 @@ src = 'Sikkim, Geyzing 03.png'
 caption = '**A prominent family’s estate in Geysing, West Sikkim** A large mansion painted in brilliant Buddhist motifs and colours. The woodwork and columns of the verandah, the side door and jambs of the doors are finely carved'
 +++
 
-An amazing variety of vernacular architecture exists in the northern Himalayas and further
-eastwards – from Islamic elements of Kashmir to Buddhist Zanskar and Ladakh. After that
-are the Hindu styles in Himachal Pradesh, Uttarakhand and on to Buddhist Sikkim again.
+An amazing variety of vernacular architecture exists in the northern Himalayas and further eastwards – from Islamic elements of Kashmir to Buddhist Zanskar and Ladakh. After that are the Hindu styles in Himachal Pradesh, Uttarakhand and on to Buddhist Sikkim again.
 
-In Kashmir deodar timber is the main material used and its lengths are bonded with stone, all
-resting on stone foundations. The great number of massive deodar columns used in the Jama
-Masjid in Srinagar are testimony to its great value as an architectural element. The Jhelum
-river-front has an interesting medley of houses. Over a period of time wooden screens gave
-way to glass, just as mud and grass roofs gave way to the overwhelming use of galvanized
-corrugated iron sheets, for domestic as well as mosque construction. The mud and grass roofs
-were laid on birch bark on the roof structure, which made the roofs water proof and was
-good insulation in the extreme cold. However, hardly any houses at present have this very
-traditional form of roofing material.
+In Kashmir deodar timber is the main material used and its lengths are bonded with stone, all resting on stone foundations. The great number of massive deodar columns used in the Jama Masjid in Srinagar are testimony to its great value as an architectural element. The Jhelum river-front has an interesting medley of houses. Over a period of time wooden screens gave way to glass, just as mud and grass roofs gave way to the overwhelming use of galvanized corrugated iron sheets, for domestic as well as mosque construction. The mud and grass roofs were laid on birch bark on the roof structure, which made the roofs water proof and was good insulation in the extreme cold. However, hardly any houses at present have this very traditional form of roofing material.
 
-Like the rest of India the bricks used were earlier the thinner nanak-shahi variety and were
-gradually replaced with the British standard brick. Bay windows still predominate the façades
-of the houses and the British introduced corrugated iron sheets soon became standard even
-in vernacular houses’ roofs. Photographs from the archives of the Archaeological Survey of
-India (A.S.I.) of houses with this form of roofs have been included in this work.
+Like the rest of India the bricks used were earlier the thinner nanak-shahi variety and were gradually replaced with the British standard brick. Bay windows still predominate the façades of the houses and the British introduced corrugated iron sheets soon became standard even in vernacular houses’ roofs. Photographs from the archives of the Archaeological Survey of India (A.S.I.) of houses with this form of roofs have been included in this work.
 
-{{<blockquote position="left">}}from the Kashmir valley onwards to Kargil the Muslim population continues but nothing much is left of any great vernacular style{{</blockquote>}}
-From the Kashmir valley onwards to Kargil the Muslim population continues but nothing
-much is left of any great vernacular style. The moment one enters Ladakh or branches off
-to Zanskar a totally different style emerges, that of the typical Buddhist dwelling, which
-continues to Spiti in Himachal Pradesh. A day’s drive from Kargil takes you to Padam, the
-headquarters of Zanskar region. Padam is situated in a vast amphitheatre of mountains
-with monasteries perched on some of them. Another day’s trek from Padam is the historical
-Phugtal monastery, very picturesquely built inside a huge cave in a mountain with the houses
-of the monks all around it on a steep incline.
-{{< figure src="/images/regions/JK, Zanskar, Padam 01.png" caption="**Houses at Padam, Zanskar** Houses in the vast amphitheatre of mountains as one reaches Padam. The style is typically Buddhist and simple, with tapering walls to add to their strength when under snow, when the flat rooftops are themain working areas." width="100%" class="essay-image" >}}
-The typical Buddhist house has a level roof that becomes the working area in the long
-snowbound winter and is also used for storage. The walls are of compacted mud with timber
-bonding for strength. Cantilevered wooden bay windows contrast with the mud walls,
-with the structure going up to a number of storeys. The external walls are tapered for more
-stability. The windows are ornately worked with elements cantilevered and supported on
-many purlins and rafters. The wood used is mainly willow and juniper.
+{{<blockquote position="left">}}from the Kashmir valley onwards to Kargil the Muslim population continues but nothing much is left of any great vernacular style{{</blockquote>}} From the Kashmir valley onwards to Kargil the Muslim population continues but nothing much is left of any great vernacular style. The moment one enters Ladakh or branches off to Zanskar a totally different style emerges, that of the typical Buddhist dwelling, which continues to Spiti in Himachal Pradesh. A day’s drive from Kargil takes you to Padam, the headquarters of Zanskar region. Padam is situated in a vast amphitheatre of mountains with monasteries perched on some of them. Another day’s trek from Padam is the historical Phugtal monastery, very picturesquely built inside a huge cave in a mountain with the houses of the monks all around it on a steep incline. {{< figure src="/images/regions/JK, Zanskar, Padam 01.png" caption="**Houses at Padam, Zanskar** Houses in the vast amphitheatre of mountains as one reaches Padam. The style is typically Buddhist and simple, with tapering walls to add to their strength when under snow, when the flat rooftops are themain working areas." width="100%" class="essay-image" >}}
 
-Beyond, in Himachal Pradesh many local styles exist, depending on the available local
-material and preferences. The structures of Manali use heavy stone slabs while those of
-Kangra use slate pieces as it is locally available, thus making the house relatively lighter. The
-graceful old houses of Manali are made from huge deodar logs, the ends of which cantilever
-out to form balconies. The window supports are gracefully carved. A good number of these
-stately houses still survive in the Manali area.
-{{< figure src="/images/regions/JK, Ladakh 1.png" caption="**Agriculturists’ Houses, Leh** These are constructed with working areas on the ground in summer and on the roof for winter, including storage of firewood. The corner windows let in light bi-directionally. Loose stones make up the boundary" width="100%" class="essay-image" >}}
-In Himachal Pradesh, from the Rohtang pass to the adobe houses of Lahaul on the north and
-Kunzum pass downstream of the river Chenab, are the summer pasture lands of the nomadic
-Gaddi shepherds of Himachal Pradesh, which continue to the beautiful Chandratal lake,
-approached from a narrow road towards the north of Kunzum pass. From Kunzum pass one
-heads towards Spiti, the road passing through a barren stretch, after which one comes across
-the typical Buddhist houses around Kaza, the main town of Spiti valley. The settlements are
-scattered in the broad valley with the Kye monastery rising gracefully on a conical mountain.
-A road takes one to the highest motorable village in the world, that of Kibber, with typical
-Buddhist flat roofed houses. To the right while going from Kaza to Kinnaur is the Pin valley
-with scattered Buddhist houses. Also in Spiti is the magnificent Dhankar gompa whose
-scattered houses appear to be precariously perched on a limestone mountain.
+The typical Buddhist house has a level roof that becomes the working area in the long snowbound winter and is also used for storage. The walls are of compacted mud with timber bonding for strength. Cantilevered wooden bay windows contrast with the mud walls, with the structure going up to a number of storeys. The external walls are tapered for more stability. The windows are ornately worked with elements cantilevered and supported on many purlins and rafters. The wood used is mainly willow and juniper.
 
-Travelling along the river Beas, before reaching Manali a right turn from Kulu takes one to
-the Shoja valley with its typical stone roofed cantilevered houses all along the way to the
-Jalori pass, beyond which come the country houses of Shimla district. In Lahaul valley the
-Buddhist style continues with some variations in it is form, though building material remains
-the same. Lahaul also has a Hindu population and their houses differ from the Buddhist
-ones to an extent. In the foot-hills of Himachal an interesting heritage village in Himachal
-Pradesh is Pragpur, with a number of styles varying from traditional vernacular to some with
-an admixture of colonial inputs.
+Beyond, in Himachal Pradesh many local styles exist, depending on the available local material and preferences. The structures of Manali use heavy stone slabs while those of Kangra use slate pieces as it is locally available, thus making the house relatively lighter. The graceful old houses of Manali are made from huge deodar logs, the ends of which cantilever out to form balconies. The window supports are gracefully carved. A good number of these stately houses still survive in the Manali area. {{< figure src="/images/regions/JK, Ladakh 1.png" caption="**Agriculturists’ Houses, Leh** These are constructed with working areas on the ground in summer and on the roof for winter, including storage of firewood. The corner windows let in light bi-directionally. Loose stones make up the boundary" width="100%" class="essay-image" >}}
+
+{{< blockquote position="right" >}}The settlements are scattered in the broad valley with the Kye monastery rising gracefully on a conical mountain. A road takes one to the highest motorable village in the world, that of Kibber, with typical Buddhist flat roofed houses{{< /blockquote >}} In Himachal Pradesh, from the Rohtang pass to the adobe houses of Lahaul on the north and Kunzum pass downstream of the river Chenab, are the summer pasture lands of the nomadic Gaddi shepherds of Himachal Pradesh, which continue to the beautiful Chandratal lake, approached from a narrow road towards the north of Kunzum pass. From Kunzum pass one heads towards Spiti, the road passing through a barren stretch, after which one comes across the typical Buddhist houses around Kaza, the main town of Spiti valley. The settlements are scattered in the broad valley with the Kye monastery rising gracefully on a conical mountain. A road takes one to the highest motorable village in the world, that of Kibber, with typical Buddhist flat roofed houses. To the right while going from Kaza to Kinnaur is the Pin valley with scattered Buddhist houses. Also in Spiti is the magnificent Dhankar gompa whose scattered houses appear to be precariously perched on a limestone mountain.
+
+Travelling along the river Beas, before reaching Manali a right turn from Kulu takes one to the Shoja valley with its typical stone roofed cantilevered houses all along the way to the Jalori pass, beyond which come the country houses of Shimla district. In Lahaul valley the Buddhist style continues with some variations in it is form, though building material remains the same. Lahaul also has a Hindu population and their houses differ from the Buddhist ones to an extent. In the foot-hills of Himachal an interesting heritage village in Himachal Pradesh is Pragpur, with a number of styles varying from traditional vernacular to some with an admixture of colonial inputs.
 
 {{< figure src="/images/regions/Uttarkhand, Almora 008.png" caption="**Vernacular town house structures in Almora, Uttarakhand** Built shoulder-to-shoulder, these residences of traders and merchants with wooden façades are in the main bazaar with multiple windows for interaction with the street below" width="100%" class="essay-image" >}}
 
-{{<blockquote position="right">}}there are considerable design differences between the urban and rural houses and the
-latter would have a place for the family animals right under the house with a trap door in
-between so that in winter the natural warmth of the animals would be utilized to warm the
-main living quarters{{</blockquote>}}Beyond Himachal Pradesh lies the newly created hill state of Uttarakhand, which includes
-the regions of Kumaon and Garhwal. The different types of houses illustrated in this work
-are from Uttarkashi, Almora and Jaunsar, including the remote village of Doni. Driving
-into Uttarakhand from the state capital Dehradun, one reaches the historic village of
-Lakhamandal, which has a protected medieval temple. One of the last few traditional
-houses of the area survives here at Lakhamandal, right next to the temple. Earlier the
-entire region was dotted with such impressive houses, as can be seen from the black and
-white photographs reproduced from the archives of the Anthropological Survey of India,
-whose head office is at Kolkata. This, however, is just one of the many styles that exist in
-Uttarakhand, which are illustrated.
+{{<blockquote position="left">}}there are considerable design differences between the urban and rural houses and the latter would have a place for the family animals right under the house with a trap door in between so that in winter the natural warmth of the animals would be utilized to warm the main living quarters{{</blockquote>}}Beyond Himachal Pradesh lies the newly created hill state of Uttarakhand, which includes the regions of Kumaon and Garhwal. The different types of houses illustrated in this work are from Uttarkashi, Almora and Jaunsar, including the remote village of Doni. Driving into Uttarakhand from the state capital Dehradun, one reaches the historic village of Lakhamandal, which has a protected medieval temple. One of the last few traditional houses of the area survives here at Lakhamandal, right next to the temple. Earlier the entire region was dotted with such impressive houses, as can be seen from the black and white photographs reproduced from the archives of the Anthropological Survey of India, whose head office is at Kolkata. This, however, is just one of the many styles that exist in Uttarakhand, which are illustrated. 
 
-There are considerable design differences between the urban and rural houses and the
-latter would have a place for the family animals right under the house with a trap door in
-between so that in winter the natural warmth of the animals would be utilized to warm the
-main living quarters. These differences are best illustrated in the Almora dwellings, where
-the urban houses of businessmen are built in the bazaar adjoining to each other with some
-having retail outlets built in on the ground floor while the rural ones are of a different style
-with work spaces for agriculture operation and animals. Where many of a community are
-staying together they are made into row houses with a common working area in front.
+{{< blockquote position="right" >}}rural houses would have a place for the family animals right under the house with a trap door in between so that in winter the natural warmth of the animals would be utilized to warm the main living quarters{{< /blockquote >}} There are considerable design differences between the urban and rural houses and the latter would have a place for the family animals right under the house with a trap door in between so that in winter the natural warmth of the animals would be utilized to warm the main living quarters. These differences are best illustrated in the Almora dwellings, where the urban houses of businessmen are built in the bazaar adjoining to each other with some having retail outlets built in on the ground floor while the rural ones are of a different style with work spaces for agriculture operation and animals. Where many of a community are staying together they are made into row houses with a common working area in front.
 
-The chaukat of Uttaranchal is the typical four-storied timber-bonded house in the rural areas
-in the interiors, which is earthquake proof, despite it looking top-heavy. These are doublewalled
-traditionally made structures made with local timber and stone blocks bonded for
-strength, the space in between the two walls being filled by stones.
+The chaukat of Uttaranchal is the typical four-storied timber-bonded house in the rural areas in the interiors, which is earthquake proof, despite it looking top-heavy. These are doublewalled traditionally made structures made with local timber and stone blocks bonded for strength, the space in between the two walls being filled by stones.
