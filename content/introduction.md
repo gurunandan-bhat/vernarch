@@ -7,8 +7,19 @@ pages = 4
 images = 6
 [[sidebarImg]]
 src = '096 E (15).png'
+caption = 'Traditional haveli at Churu, Shekhawati, Rajasthan'
 [[sidebarImg]]
 src='Pal haveli dig spread sharper.png'
+caption = 'Pal Haveli, Jodhpur Rajasthan'
+[[sidebarImg]]
+src = 'jgjgjg.png'
+caption = 'Fort and palace depicted in the sculptures of a gate at the Sanchi stupa and a dwelling in the countryside'
+[[sidebarImg]]
+src = 'a historical, Bharut, ext 03.png'
+caption = 'Depiction of vernacular structures in the sculptures. This site sis in present day Satna district, in Madhya Pradesh, and the sculptures show that the people had achieved a high degree of skill in depicting individual ornaments and buildings – with well formed chaitya arches and columns in wood'
+[[sidebarImg]]
+src = 'a Khanabadosh, Rajasthani Rabari 01.png'
+caption = 'Rabari nomadic camps - The Rajasthani Rabari prefer open camps with separate enclosures for their animals.'
 +++
 
 A vast compendium of architecture design exists in India – that of vernacular or traditional residential architecture, whether of the near past or earlier historical periods. {{< blockquote position="right" >}} This situation is not being helped by uniform reinforced concrete specifications for mass housing schemes of governments which often result in uncomfortable dwellings, ill-suited to their locales{{< /blockquote >}} It is, however, virtually untapped and fast disappearing. A stage has come that future generations will not even know how their ancestors have lived and the visual and technical details of such structures would fade into oblivion.
