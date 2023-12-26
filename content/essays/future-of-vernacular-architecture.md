@@ -247,4 +247,4 @@ hills which are regularly visited by major and minor earthquakes periodically. T
 some of these traditional structures are nearly two to three hundred years old speaks a lot for
 their safety and stability, more than that of modern structures. Modern architects, too, are
 trying to incorporate in parts traditional designs and skills in their designs, some of which are
-listed in the bibliography appended to this project – efforts that are worth supporting.
+listed in the bibliography appended to this project – efforts that are worth supporting  &#128997;

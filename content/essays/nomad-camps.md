@@ -83,4 +83,4 @@ wandering lives, especially since they do not have windows to shut out the world
 eyes. The availability of modern materials has altered this and for camping itinerants have
 started using regular tents bought from markets. Their itinerant lifestyles, moreover, are
 slowly vanishing as they are getting more and more ‘settled’, with a transition to modern
-professions.
+professions  &#128997;

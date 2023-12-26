@@ -321,4 +321,4 @@ of the grandness of such residences and they are dilapidated, carved up by heirs
 a few pristine examples are difficult to come by. The semi-urban and rural regions of the
 north still have courtyard homes in use. In the eastern parts of India and the former state of
 Hyderabad such residential structures do not survive in as great a density as in the northern
-and western parts of India.
+and western parts of India  &#128997;

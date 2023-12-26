@@ -79,4 +79,4 @@ from multi-storeyed balconies on activities and celebrations below. Soldiers mar
 out of gates and Lord Buddha’s departure from the palace remains a favourite theme. The
 Bharut sculptures have graceful chaitya windows that give a very airy feel. The Sannati stupa
 excavation is particularly interesting as it was made during the times of Emperor Ashoka and
-one sculpture has an image of him.
+one sculpture has an image of him  &#128997;
