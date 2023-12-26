@@ -722,6 +722,10 @@ input[type="text"]:focus,
   padding-bottom: 30px;
 }
 
+#footer strong {
+  color: #aaa;
+} 
+
 /* Flickr */
 .flickrs {
   margin: 10px -10px 0 0;
