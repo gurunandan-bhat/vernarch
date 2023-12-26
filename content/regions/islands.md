@@ -8,6 +8,11 @@ headerImg = '/images/regions/islands/Islands, Lakhshadweep 04.png'
 listImage = "/images/regions/Islands, Lakhshadweep 06.png"
 includeStates = ['the islands of Andamans', 'Nicobar', 'Lakshadweep']
 sortOrder = 6
+pages = 6
+images = 16
+[[sidebarImg]]
+src = 'Islands, Andamans, 005.png'
+caption = 'Typical rural huts in the Andaman islands.'
 +++
 
 The islands of Andamans, Nicobar and Lakshadweep have vernacular traditions unique to their tribal cultures and based on available building material. The lifestyles on the islands vary from the hunting and food gathering existence of the negroid Jarawa and Onge to the mongoloid Nicobarese. The Sentinelese are still unapproachable on their islands and they appear to be in the hunting and food gathering stage. Lakshadweep with its turquoise waters has its own remarkable lifestyles and huts made of daub and thatch.
