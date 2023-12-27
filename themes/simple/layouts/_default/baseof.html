@@ -16,5 +16,26 @@
     <div class="container-fluid">
       <footer>{{ partial "footer.html" . }}</footer>
     </div>
+    {{- if eq .Page.Type "buy" }}
+      {{- with resources.Get "js/form-validation.js" }}
+        {{- if eq hugo.Environment
+          "development"
+        }}
+          {{- with . | js.Build }}
+            <script src="{{ .RelPermalink }}"></script>
+          {{- end }}
+        {{- else }}
+          {{- $opts := dict "minify" true }}
+          {{- with . | js.Build
+            $opts | fingerprint
+          }}
+            <script
+              src="{{ .RelPermalink }}"
+              integrity="{{- .Data.Integrity }}"
+              crossorigin="anonymous"></script>
+          {{- end }}
+        {{- end }}
+      {{- end }}
+    {{- end }}
   </body>
 </html>
