@@ -16,7 +16,7 @@
     <div class="container-fluid">
       <footer>{{ partial "footer.html" . }}</footer>
     </div>
-    {{- if eq .Page.Type "buy" }}
+    {{- if eq .Page.Type "order" }}
       {{- with resources.Get "js/form-validation.js" }}
         {{- if eq hugo.Environment
           "development"

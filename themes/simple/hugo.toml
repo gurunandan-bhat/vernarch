@@ -59,8 +59,8 @@ pageRef = '/essays'
 weight = 30
 
 [[menus.main]]
-name = 'Order Book'
-pageRef = '/shop'
+name = 'Order a Copy'
+pageRef = '/order'
 weight = 40
 
 [[menus.main]]
