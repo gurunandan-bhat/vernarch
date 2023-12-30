@@ -24,7 +24,7 @@ src = '056 C1 (15).png'
 caption = '**Sardar Sher Singh Randhawa’s haveli at village Bodlan, Punjab** The entrance gate to the three-storeyed structure has murals depicting religious themes from the Sikh religion. A well in the courtyard served the needs of the residents for water. This is the author’s paternal grandfather’s haveli.'
 [[sidebarImg]]
 src = 'Punjab, Khunjan 08.png'
-caption = '**A typical haveli of Punjab at village Khunjan** The facade has stucco decorative work. The entrance room has wooden fret-work with paintings on Sikh religious themes. The baithak or sitting room has a balcony for women to look down from at the proceedings below. The main door inside with a carving of a Sikh soldier.'
+caption = '**A typical haveli of Punjab at village Khunjan** The facade has stucco decorative work. The entrance room has wooden fret-work with paintings on Sikh religious themes. The baithak or sitting room has a balcony for women to look down from at the proceedings below.'
 [[sidebarImg]]
 src = '2017-12-23 13.35.16.png'
 caption = '**Havelis at Chandini Chowk, Delhi** A few old havelis dot the old city of Delhi, though elements of British colonial influence had crept in. Beyond the narrow winding lanes life goes on in the havelis’ spacious courtyards and the street is visually accessed from the facade windows'
