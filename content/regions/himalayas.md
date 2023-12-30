@@ -2,7 +2,7 @@
 title = 'Himalayas and the Hills'
 date = 2023-01-15T09:00:00-07:00
 draft = false
-tags = ['red']
+description = 'Covers the vast diversity of houses in the northern Himalayan region and eastwards ranging from Islamic to Buddhist to Hindu'
 summaryImage = "JK, Ladakh, Leh 01.png"
 headerImg = "/images/regions/himalayas/JK, Zanskar, Phuktal 3.png"
 listImage = '/images/regions/JK, Srinagar, Jhelum river front 03.png'

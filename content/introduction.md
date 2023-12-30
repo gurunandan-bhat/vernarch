@@ -3,6 +3,7 @@ title = 'Introduction'
 date = 2023-12-25T08:41:29+05:30
 headerImg = '/images/home/Rajasthan, Bikaner 02.png'
 draft = false
+description = 'Introduction to the Vernacular Architecture of India and the reason why its study is important'
 pages = 4
 images = 6
 [[sidebarImg]]

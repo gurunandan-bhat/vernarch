@@ -55,6 +55,10 @@ figure.essay-image {
   margin-top: 10px;
 }
 
+figure img {
+  margin-bottom: 1rem;
+}
+
 .main-content figcaption p {
   margin-bottom: 0;
   font-weight: normal !important;

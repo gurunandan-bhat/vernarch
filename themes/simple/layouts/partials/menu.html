@@ -14,7 +14,7 @@
 {{- with index site.Menus $menuID }}
   <nav class="navbar navbar-expand-md  my-5">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/"><h2 class="lead">{{- site.Title | markdownify }}</h2></a>
+      <a class="navbar-brand" href="/"><h2 class="lead">{{- site.Params.descriptiveURL | markdownify }}</h2></a>
       <button
         class="navbar-toggler"
         type="button"

@@ -2,7 +2,7 @@
 title = 'Northern Indian Plains'
 date = 2023-01-15T09:00:00-07:00
 draft = false
-tags = ['red']
+description = 'Covers the traditional architectures found in North India covering Lucknow, Varanasi, Vrindavan, Punjab, Haryana and Delhi'
 summaryImage = "2017-12-23 13.35.16.png"
 headerImg = "/images/regions/north/Punjab, Bidowali, slides  05.png"
 listImage = '/images/regions/UP, Varanasi slides 01.png'

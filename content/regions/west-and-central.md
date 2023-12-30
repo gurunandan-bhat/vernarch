@@ -2,7 +2,7 @@
 title = 'West and Central India'
 date = 2023-01-15T09:00:00-07:00
 draft = false
-tags = ['red']
+description = 'Covers the vast diversity of traditional architecture from stone havelis of  Rajasthan, the tak havelis of Gujarat, Madhya Pradesh and the wadas of Maharastra'
 summaryImage = "Rajasthan, Jaisalmer, Patua haveli slides 11.png"
 listImage = '/images/regions/Rajasthan, Udaipur, Bagore-ki-haveli 04.png'
 includeStates = ['Rajasthan', 'Gujarat', 'Maharashtra', 'Madhya Pradesh']

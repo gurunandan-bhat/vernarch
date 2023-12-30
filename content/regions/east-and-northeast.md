@@ -2,6 +2,7 @@
 title = 'Eastern and North-East India'
 date = 2023-01-15T09:00:00-07:00
 draft = false
+description = 'Covers the traditional architectures found in the predominantly tribal civilizations of the Noth East of India'
 summaryImage = "Nagaland, tribe Pochury 01.png"
 headerImg = '/images/regions/east-and-northeast/Nagaland, tribe Chang 03.png'
 listImage = '/images/regions/Meghalaya, tribe Khasi 08.png'

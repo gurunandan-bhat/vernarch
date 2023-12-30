@@ -3,6 +3,7 @@ title = 'About the Author'
 date = 2023-12-24T10:54:31+05:30
 draft = false
 headerImg = '/images/about/Rajasthan, Jaisalmer, sepia endpaper bricksss.png'
+description = 'A brief introduction to the author Tejinder S. Randhawa and his other books'
 otherBooks = [
     '_ND29634.png',
     '_ND29635.png',

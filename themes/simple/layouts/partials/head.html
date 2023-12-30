@@ -3,9 +3,12 @@
 <meta name="viewport" content="width=device-width" />
 <title>
   {{- if .IsHome }}
-    {{- site.Title }}
+    {{- site.Title -}}
   {{- else }}
-    {{- printf "%s | %s" .Title site.Title }}
-  {{- end }}
+    {{- printf "%s | %s" .Title site.Title -}}
+  {{- end -}}
 </title>
+{{- $description := or .Params.description site.Params.description }}
+<meta name="description" content="{{- $description -}}" />
+<link rel="canonical" href="{{ .Permalink }}" />
 {{ partialCached "head/css.html" . }} {{ partialCached "head/js.html" . }}

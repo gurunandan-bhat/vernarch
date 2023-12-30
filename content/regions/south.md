@@ -2,7 +2,7 @@
 title = 'Southern India'
 date = 2023-01-15T09:00:00-07:00
 draft = false
-tags = ['red']
+description = 'Covers the traditional architectures based on the historical civilizations in the states of Tamil Nadu, Kerala, Karnataka and Andhra Pradesh'
 summaryImage = "Kerala, Calicut, Hindu house 02.png"
 headerImg = '/images/regions/south/TrStV8_Shenoy_29_04.png'
 listImage = '/images/regions/Karnataka, Deccani Nawab Mahal (Manipal Mus.) 03.png'
