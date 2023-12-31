@@ -8,14 +8,15 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
-name = 'Introduction'
-pageRef = '/introduction'
-weight = 15
+name = 'Regions'
+pageRef = '/regions'
+weight = 20
 
 [[menus.main]]
-name = 'Regions'
-pageRef = '#'
-weight = 20
+name = 'Introduction'
+pageRef = '/introduction'
+parent = 'Regions'
+weight = 15
 
 [[menus.main]]
 name = 'Himalayas'
@@ -59,7 +60,7 @@ pageRef = '/essays'
 weight = 30
 
 [[menus.main]]
-name = 'Order a Copy'
+name = 'Order'
 pageRef = '/order'
 weight = 40
 
