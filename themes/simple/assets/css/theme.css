@@ -107,11 +107,14 @@ p.lead {
   font-family: "Lora", serif;
   font-style: italic;
   font-weight: 400;
-  margin: 30px 0px;
+  margin: 10px 0px;
   line-height: 1.75rem;
   color: #6e6e6e;
 }
 
+table.blend {
+  --bs-table-bg: var(--bs-body-bg);
+}
 
 a,
 input,

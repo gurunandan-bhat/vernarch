@@ -1,4 +1,12 @@
 {{- define "main" }}
+  <div class="row">
+    {{- range .Params.headerImg }}
+      <div class="col-md-6">
+        <img src="{{- . }}" class="img-fluid" />
+      </div>
+    {{- end }}
+  </div>
+  <hr class="my-5"/>
   <div class="row row-cols-1 row-cols-md-3 mb-3">
     <div class="col-md-5 text-center">
       <div class="card mb-4 rounded-3 shadow-sm border-primary">
@@ -22,9 +30,8 @@
       </div>
     </div>
     <div class="col-md-7">
+      <div class="main">{{ .Content }}</div>
       <form class="needs-validation" method="post" action="#" novalidate>
-        <hr class="my-4" />
-        <h4>Shipping Address</h4>
         <div class="row g-3 my-4">
           <div class="col-sm-6">
             <label for="country" class="form-label"
@@ -46,7 +53,6 @@
             <div class="invalid-feedback">Number of copies is required</div>
           </div>
         </div>
-
         <!-- <hr class="my-4"> -->
         <div class="row g-3">
           <div class="col-sm-6">
