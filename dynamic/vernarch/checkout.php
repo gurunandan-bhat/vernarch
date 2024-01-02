@@ -1,4 +1,5 @@
 <?php
+include_once(dirname(__DIR__) . '/config/config.php');
 include(dirname(__DIR__) . '/config/crypto.php');
 
 session_start();
@@ -10,7 +11,7 @@ $postage_anywhere   = 3500;
 
 if (($_SERVER['REQUEST_METHOD'] == 'POST') &&
     isset($_SERVER['HTTP_REFERER']) &&
-    preg_match("/vernacular-architecture.in$/", $sender)
+    preg_match("/". HOST_VERNARCH ."$/", $sender)
 ) {
 
     $name       = $_POST['firstName'] . ' ' . $_POST['lastName'];
@@ -88,7 +89,7 @@ if (($_SERVER['REQUEST_METHOD'] == 'POST') &&
     $encrypted_data  = encrypt($params, $working_key);
     $transact_url    = "https://secure.ccavenue.com/transaction/transaction.do?command=initiateTransaction";
 } else {
-    header('Location: https:///error.html');
+    print "Access Error: Disallowed";
     exit();
 }
 ?>
