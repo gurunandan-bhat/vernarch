@@ -3,7 +3,7 @@
 {{- $currentPage := .context.Page }}
 {{- $sectionLink := (.context.Site.GetPage "section" $section).RelPermalink }}
 <div class="row pt-2">
-  <h3><a href="{{- $sectionLink }}">{{- $section | humanize }}</a></h3>
+  <h2 class="pb-2"><a href="{{- $sectionLink }}">{{- $section | humanize }}</a></h2>
   {{- $regions := where .context.Site.RegularPages "Section" $section }}
   {{- range sort $regions ".Params.sortOrder" }}
     {{ if not (.Eq $currentPage) }}
@@ -13,9 +13,9 @@
           width="100%"
           alt="..."
           class="pb-2" />
-        <h5 class="text-center">
+        <h3 class="text-center">
           <a href="{{- .RelPermalink }}">{{- .LinkTitle }}</a>
-        </h5>
+        </h3>
         {{- if $full }}
           {{- with .Params.includeStates }}
             <h6>Covers {{ delimit . ", " " and " }}</h6>
