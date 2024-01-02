@@ -1,8 +1,8 @@
 {{- define "main" }}
   <div class="row">
-      <div class="col-md-12">
-        <img src="{{- .Params.headerImg }}" class="img-fluid" />
-      </div>
+    <div class="col-md-12">
+      <img src="{{- .Params.headerImg }}" class="img-fluid" />
+    </div>
   </div>
   <hr class="mb-5" />
   <div class="row row-cols-1 row-cols-md-3 mb-3">
@@ -52,9 +52,17 @@
         </div>
       </div>
     </div>
+    {{- $checkoutLink := site.Params.devCheckoutLink }}
+    {{- if  hugo.IsProduction }}
+      {{- $checkoutLink = site.Params.prodCheckoutLink }}
+    {{- end }}
     <div class="col-md-7">
       <div class="main">{{ .Content }}</div>
-      <form class="needs-validation" method="post" action="/order" novalidate>
+      <form
+        class="needs-validation"
+        method="post"
+        action="{{- $checkoutLink -}}"
+        novalidate>
         <div class="row g-3 my-4">
           <div class="col-sm-6">
             <label for="country" class="form-label"

@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Vernacular Architecture of India'
 theme = 'simple'
 summaryLength = 20
+cleanDestinationDir = true
 [params]
 descriptiveURL = 'vernacular-architecture.in'
 description = 'Documents and illustrates the vast diversity of social and environmental adaptations, and preferences in traditional residential structures, built from locally available materials and skills found in India.'
+devCheckoutLink = 'http://192.168.1.40:8000/vernarch/checkout.php'
+prodCheckoutLink = 'https://mariodemiranda.com/vernarch/checkout.php'
