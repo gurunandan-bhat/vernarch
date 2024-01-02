@@ -580,17 +580,17 @@ p strong {
   margin-right: 2px;
 }
 
-form, form label.form-label {
+form,
+form label.form-label {
   font-family: "Fira Sans", sans-serif;
   font-weight: 400;
 }
-
 
 /***************************************************
 	07. FOOTER
  ***************************************************/
 #footer {
-  background: #222 url(../img/foot_top.png) repeat;
+  background: #222 url(/images/foot_top.png) repeat;
   padding-top: 30px;
   margin-top: 60px;
   color: #666;
@@ -629,7 +629,7 @@ form, form label.form-label {
 
 #footer strong {
   color: #aaa;
-} 
+}
 
 /* Flickr */
 .flickrs {
@@ -669,7 +669,7 @@ form, form label.form-label {
 }
 
 .footer_bottom {
-  background: #1e1e1e url(../img/foot_bottom.png) repeat;
+  background: #1e1e1e url(/images/foot_bottom.png) repeat;
   margin-top: 40px;
   padding: 20px 0 15px 0;
 }

@@ -3997,6 +3997,7 @@
 		form.addEventListener(
 			'submit',
 			function (event) {
+				console.log('Triggered Submit');
 				if (!form.checkValidity()) {
 					event.preventDefault();
 					event.stopPropagation();
@@ -4009,9 +4010,7 @@
 	});
 
 	document.getElementById('country').addEventListener('change', addStateList);
-	console.log(document.getElementById('country'));
 	function addStateList(event) {
-		console.log('Country Changes');
 		var country = event.target.value;
 		var stateList = states[country];
 		var stateSelector = document.getElementById('state');
