@@ -48,7 +48,7 @@ $w = file_put_contents($fname, $debug_info);
 </head>
 
 <body>
-	<nav class="navbar navbar-expand-md">
+	<nav class="navbar navbar-expand-md my-5">
 		<div class="container">
 			<a class="navbar-brand" href="https://vernacular-architecture.in"><h2 class="lead">vernacular-architecture.in</h2></a>
 		</div>
@@ -78,7 +78,7 @@ $w = file_put_contents($fname, $debug_info);
 							This could be due to several reasons
 							including network and connectivity
 							issues. If you prefer to take this up with
-							ypur Bank or Credit Card Company, the
+							your Bank or Credit Card Company, the
 							following information might be useful. A
 							copy of this information is also available
 							with us and we will try to make sure that
