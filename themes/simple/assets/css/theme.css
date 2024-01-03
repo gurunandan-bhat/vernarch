@@ -597,6 +597,11 @@ form label.form-label {
   font-family: "Fira Sans", sans-serif;
   font-size: smaller;
 }
+
+.container-fluid {
+  --bs-gutter-x: 0;
+} 
+
 #footer li {
   padding: 0 0 15px 0;
   margin-bottom: 15px;
