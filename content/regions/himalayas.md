@@ -11,7 +11,8 @@ sortOrder = 1
 pages = 64
 images = 131
 [[sidebarImg]]
-src = 'JK, Pattan 01.png'
+src = 'JK, Ladakh, Lamayuru old quarter 03.png'
+caption = '**Lamayuru Monastery, Ladakh**. The old quarter of the Lamayuru monastery has interesting vernacular architecture and detail, some three centuries or more old. There are covered passages for connecting areas in winter when the region is snowed up, courtyards on higher storeys and cantilevered balconies.'
 [[sidebarImg]]
 src = 'JK, Srinagar 05.png'
 caption = '**Houses in Srinagar** The local houses use exposed bricks without plaster, wooden bay windows with the foundation made seepage-proof with a platform of wooden logs. The earlier roofs of local tiles or thatch are now mostly replaced with corrugatedsheets.'
@@ -27,6 +28,13 @@ caption = '**The monastery at Phugtal, Zanskar** Emanating from a huge cave, thi
 [[sidebarImg]]
 src = 'Sikkim, Geyzing 03.png'
 caption = '**A prominent family’s estate in Geysing, West Sikkim** A large mansion painted in brilliant Buddhist motifs and colours. The woodwork and columns of the verandah, the side door and jambs of the doors are finely carved'
+[[sidebarImg]]
+src='houses jhelum 16 bit sharpened.png'
+caption = '**Jhelum river front houses, Srinagar**. An amazing medley of multi-level houses line the banks of the Jhelum river that passes through Srinagar. Historically they all would have had thatch roofs but now use corrugated sheets. These houses are made of wood, stone and masonry, with cantilevered balconies and bay windows. Between a group of houses is a boat landing area'
+[[sidebarImg]]
+src = 'JK, Ladakh, Alchi 008.png'
+caption = '**A traditional dwelling in Alchi, Ladakh**. A four storeyed structure along the slope of a hill, made of wooden frames and mud bricks. Prayer flags add colour to the otherwise plain mud-block walls.'
+
 +++
 
 An amazing variety of vernacular architecture exists in the northern Himalayas and further eastwards – from Islamic elements of Kashmir to Buddhist Zanskar and Ladakh. After that are the Hindu styles in Himachal Pradesh, Uttarakhand and on to Buddhist Sikkim again.
