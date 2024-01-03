@@ -1,9 +1,10 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://vernacular-architecture.in/'
 languageCode = 'en-us'
 title = 'Vernacular Architecture of India'
 theme = 'simple'
 summaryLength = 20
 cleanDestinationDir = true
+enableRobotsTXT = true
 [params]
 descriptiveURL = 'vernacular-architecture.in'
 description = 'Documents and illustrates the vast diversity of social and environmental adaptations, and preferences in traditional residential structures, built from locally available materials and skills found in India.'
