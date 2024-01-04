@@ -1,0 +1,42 @@
+{{- define "main" }}
+<img src="{{- .Params.headerImg }}" class="img-fluid" />
+  <hr />
+  <div class="row">
+    <div class="offset-md-2 col-md-8">
+      <h1 class="mt-5 mb-2">{{- .Title }}</h1>
+      {{- .Content }}
+    </div>
+  </div>
+  {{- $regions := where .Site.RegularPages "Section" "regions" }}
+  {{- $essays := where .Site.RegularPages "Section" "essays" }}
+  {{ range $i, $p := union $regions $essays }}
+    <div class="row pt-5">
+      {{- if math.ModBool $i 2 }}
+        <div class="offset-md-2 col-md-4">
+          <img src="{{- $p.Params.listImage }}" class="img-fluid pb-2" />
+        </div>
+        <div class="col-md-4">
+          <div class="mb-2">
+            <h3><a href="{{- $p.RelPermalink }}">{{- $p.LinkTitle }}</a></h3>
+            {{ .Summary }}<a href="{{- .RelPermalink }}"
+              ><i class="fa-solid fa-angles-right"></i
+            ></a>
+          </div>
+        </div>
+      {{- else }}
+        <div class="offset-md-2 col-md-4">
+          <div class="mb-2">
+            <h3><a href="{{- $p.RelPermalink }}">{{- $p.LinkTitle }}</a></h3>
+            {{ .Summary }}<a href="{{- .RelPermalink }}"
+              ><i class="fa-solid fa-angles-right"></i
+            ></a>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <img src="{{- $p.Params.listImage }}" class="img-fluid pb-2" />
+        </div>
+      {{- end }}
+      <hr class="mt-3 offset-md-2 col-md-8" />
+    </div>
+  {{- end }}
+{{- end }}
