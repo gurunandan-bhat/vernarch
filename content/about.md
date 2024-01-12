@@ -14,7 +14,7 @@ otherBooks = [
 src ='Haveli0006 2.JPG'
 +++
 
-Tejinder S. Randhawa (seen here with his wife) has been passionately studying various dimensions of Indian culture and heritage for several decades and has written acclaimed lavishly illustrated books on subjects like courtyard houses (The Indian Courtyard House), nomadic tribes (The Last Wanderers), Sikh arts (Images of a Heritage), Kachchh (The Last Frontier) and on Indian silk (A Critical Study of the Indian Silk Sector).
+Tejinder S. Randhawa (seen here with his wife, Neelu) has been passionately studying various dimensions of Indian culture and heritage for several decades and has written acclaimed lavishly illustrated books on subjects like courtyard houses (The Indian Courtyard House), nomadic tribes (The Last Wanderers), Sikh arts (Images of a Heritage), Kachchh (The Last Frontier) and on Indian silk (A Critical Study of the Indian Silk Sector).
 
 Apart from the present book, the future titles in his Visual Compendium of Indian Heritage Series are Structural Elements and Spaces in Indian Architecture; The Visual Art History of the Female Form, Eroticism and Fashion in India; Tropical and Himalayan Flowering Trees of India, South and South-East Asia; Strands of Heritage – Silk Textiles of India, 19th Century Onwards; and Textiles and Ornamentation in Indian Mural Traditions, including Ajanta caves. He has published papers on the use of appropriate technology in water conservation and given talks on Indian traditional residential architecture and textiles.
 
