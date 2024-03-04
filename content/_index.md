@@ -22,7 +22,11 @@ text = "&hellip;a _monumental_ undertaking with in-depth analysis and over _1,60
 author = """--- Andre Aranha Correa do Lago  
 (former Brazilian Ambassador to India and jury member, Pritzker Prize for Architecture)"""
 [[reviews]]
-text = '&hellip; _incredible resource for architects, art and architectural historians and enthusiasts_. Until I received the book, it was unimaginable that any single book could include the _diverse vernacular architecture styles_ of a large country like India&hellip; that this book is a product of _several decades of painstaking documentation_ also means that many of these buildings no longer exist. It is a _must have for every architect and architecture school_ and for anyone interested in Indian Heritage.'
+text = '&hellip;_incredible resource for architects, art and architectural historians and enthusiasts_. Until I received the book, it was unimaginable that any single book could include the _diverse vernacular architecture styles_ of a large country like India&hellip; that this book is a product of _several decades of painstaking documentation_ also means that many of these buildings no longer exist. It is a _must have for every architect and architecture school_ and for anyone interested in Indian Heritage.'
 author = """--- Ratish Nanda   
 (noted Conservation Architect and Director, Aga Khan Trust for Culture)"""
+[[reviews]]
+text = "&hellip;a thumping book by Tejinder Singh Randhawa, _featuring lush analogue colour photographs of traditional dwellings, both humble huts and magnificent palaces_. These images appropriate almost every inch of its 544 pages. The colour photographs are supplemented by sepia images of grand havelis and dharamshalas in Delhi, Rajasthan and Gwalior that were part of the India Society report. "
+author = """--- Soumitra Das, The New Indian Express March 03, 2024
+[read full article here](https://www.newindianexpress.com/lifestyle/books/2024/Mar/02/vernacular-architecture-of-india-traditional-residential-styles-spaces-book-review-homeward-bound)"""
 +++
