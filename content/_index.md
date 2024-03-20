@@ -5,7 +5,6 @@ draft = false
 carousel = [
     "Himachal, Spiti, Dhankar 02.png",
     "Punjab, Amritsar 02.png",
-    "jaisalmer fort digital pano shortened.png",
     "5 jhkjkh copy.png",
     "08 Gujarat, Patan, Muslim, slides 4.png",
     "Gujarat, Kachchh, Rabari huts in Tunda Wandh 01.png",
