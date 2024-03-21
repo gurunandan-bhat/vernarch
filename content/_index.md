@@ -29,7 +29,7 @@ text = "&hellip;a thumping book by Tejinder Singh Randhawa, _featuring lush anal
 author = """--- Soumitra Das, The New Indian Express March 03, 2024
 [read full article here](https://www.newindianexpress.com/lifestyle/books/2024/Mar/02/vernacular-architecture-of-india-traditional-residential-styles-spaces-book-review-homeward-bound)"""
 [[reviews]]
-text="&hellip;The book has broken new ground in the subject covering the length and breadth of India geographically. The book within its 546 pages of splendidly reproduced images accompanied by sparing yet pithy text will be a delight for the lay reader as well as the professional. A first of its kind, this book is a collector’s item that challenges much of the modernist aspirations of those who produce and inhabit contemporary architecture."
+text="&hellip;_The book has broken new ground in the subject covering the length and breadth of India geographically._ The book within its 546 pages of splendidly reproduced images accompanied by sparing yet pithy text will be a delight for the lay reader as well as the professional. _A first of its kind, this book is a collector’s item_ that challenges much of the modernist aspirations of those who produce and inhabit contemporary architecture."
 author="""--- K.T. Ravindran, India Today March 15, 2024
 [read full article here](https://www.indiatoday.in/magazine/leisure/story/20240325-architecture-of-india-everyday-creativity-2515280-2024-03-15)"""
 +++
