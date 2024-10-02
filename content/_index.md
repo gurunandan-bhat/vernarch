@@ -32,4 +32,7 @@ author = """--- Soumitra Das, The New Indian Express March 03, 2024
 text="&hellip;_The book has broken new ground in the subject covering the length and breadth of India geographically._ The book within its 546 pages of splendidly reproduced images accompanied by sparing yet pithy text will be a delight for the lay reader as well as the professional. _A first of its kind, this book is a collector’s item_ that challenges much of the modernist aspirations of those who produce and inhabit contemporary architecture."
 author="""--- K.T. Ravindran, India Today March 15, 2024
 [read full article here](https://www.indiatoday.in/magazine/leisure/story/20240325-architecture-of-india-everyday-creativity-2515280-2024-03-15)"""
+[[reviews]]
+text="&hellip; It opens vistas into the nomadic life of the different tribes and caravans of people living in these border areas and pouring themselves into the fabric of their homelands with a dexterity and vitality that resonate with enduring passion. It underlines why architecture in India has been called a living art"
+author="""--- Geeta Doctor, Frontline, Oct 01, 2024 [read full review here](https://frontline.thehindu.com/books/book-review-indian-architecture-tejinder-randhawa-chettinadu-mansion-western-orientalism/article68654982.ece)"""
 +++
