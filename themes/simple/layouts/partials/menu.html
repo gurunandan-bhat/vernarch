@@ -14,7 +14,11 @@
 {{- with index site.Menus $menuID }}
   <nav class="navbar navbar-expand-md  my-5">
     <div class="container-fluid">
-      <a class="navbar-brand" href="/"><h2 class="lead">{{- site.Params.descriptiveURL | markdownify }}</h2></a>
+      <a class="navbar-brand" href="/"
+        ><h2 class="lead">
+          {{- site.Params.descriptiveURL | markdownify }}
+        </h2></a
+      >
       <button
         class="navbar-toggler"
         type="button"
@@ -28,6 +32,11 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav ms-auto mb-lg-0">
           {{- partial "inline/menu/walk.html" (dict "page" $page "menuEntries" .) }}
+          <li class="nav-item px-1">
+            <a class="nav-link" href="https://shop.vernacular-architecture.in"
+              >Shop</a
+            >
+          </li>
         </ul>
       </div>
     </div>
@@ -65,7 +74,7 @@
     {{- if .Parent }}
       {{- $listClass = "" }}
     {{ end }}
-    <li {{- if ne $listClass "" }} class="{{- $listClass }}"{{- end }}>
+    <li {{ if ne $listClass "" }}class="{{- $listClass }}"{{- end }}>
       <a
         {{- range $k, $v := $linkAttrs }}
           {{- with $v }}

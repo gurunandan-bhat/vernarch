@@ -13,17 +13,17 @@
   <div class="row">
     <div class="col-md-6">
       {{- if .Params.pages }}
-      <h6 class="mb-3 text-black-50 lh-sm">
-        This chapter is spread across {{ .Params.pages }} pages with
-        {{ .Params.images }} hi-resolution colour images
-      </h6>
+        <h6 class="mb-3 text-black-50 lh-sm">
+          This chapter is spread across {{ .Params.pages }} pages with
+          {{ .Params.images }} hi-resolution colour images
+        </h6>
       {{- end }}
       {{ $baseName := .File.BaseFileName }}
       {{ $section := .Section }}
       {{- range .Params.sidebarImg }}
         <figure class="figure">
           <img
-            src="/images/{{- $section }}/{{- $baseName }}/{{- .src }}"
+            src="/images{{- $section }}/{{- $baseName }}/{{- .src }}"
             class="img-fluid w-100" />
           <figcaption class="pb-1">
             <p>

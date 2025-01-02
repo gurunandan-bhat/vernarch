@@ -1,75 +1,75 @@
-baseURL = 'https://example.org/'
+baseURL      = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title        = 'My New Hugo Site'
 
 [[menus.main]]
-name = 'Home'
+name    = 'Home'
 pageRef = '/'
-weight = 10
+weight  = 10
 
 [[menus.main]]
-name = 'Regions'
+name    = 'Regions'
 pageRef = '/regions'
-weight = 20
+weight  = 20
 
 [[menus.main]]
-name = 'Introduction'
+name    = 'Introduction'
 pageRef = '/introduction'
-parent = 'Regions'
-weight = 15
+parent  = 'Regions'
+weight  = 15
 
 [[menus.main]]
-name = 'Himalayas'
+name    = 'Himalayas'
 pageRef = '/regions/himalayas'
-weight = 100
-parent = "Regions"
+weight  = 100
+parent  = "Regions"
 
 [[menus.main]]
-name = 'North'
+name    = 'North'
 pageRef = '/regions/north'
-weight = 110
-parent = "Regions"
+weight  = 110
+parent  = "Regions"
 
 [[menus.main]]
-name = 'West and Central'
+name    = 'West and Central'
 pageRef = '/regions/west-and-central'
-weight = 120
-parent = "Regions"
+weight  = 120
+parent  = "Regions"
 
 [[menus.main]]
-name = 'South'
+name    = 'South'
 pageRef = '/regions/south'
-weight = 130
-parent = "Regions"
+weight  = 130
+parent  = "Regions"
 
 [[menus.main]]
-name = 'East and North-East'
+name    = 'East and North-East'
 pageRef = '/regions/east-and-northeast'
-weight = 140
-parent = "Regions"
+weight  = 140
+parent  = "Regions"
 
 [[menus.main]]
-name = 'Islands'
+name    = 'Islands'
 pageRef = '/regions/islands'
-weight = 150
-parent = "Regions"
+weight  = 150
+parent  = "Regions"
 
 [[menus.main]]
-name = 'Essays'
+name    = 'Essays'
 pageRef = '/essays'
-weight = 30
+weight  = 30
 
 [[menus.main]]
-name = 'Order'
+name    = 'Order'
 pageRef = '/order'
-weight = 40
+weight  = 40
 
 [[menus.main]]
-name = 'About'
+name    = 'About'
 pageRef = '/about'
-weight = 50
+weight  = 50
 
 [module]
-  [module.hugoVersion]
-    extended = false
-    min = "0.116.0"
+[module.hugoVersion]
+extended = false
+min      = "0.116.0"
