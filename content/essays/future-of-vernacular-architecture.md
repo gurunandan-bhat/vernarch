@@ -10,7 +10,10 @@ draft = false
 To hope that vernacular architecture in India will stage a spectacular comeback would be
 quixotic. In addition to urban areas, rural towns and even large villages have started getting
 multi-storeyed concrete residences due to shortage and high price of land, along with the
-natural division of families. Shortage of natural building material like timber and stone has
+natural division of families. 
+
+<!--more-->
+Shortage of natural building material like timber and stone has
 not helped either. It is futile to think that there can be a mass revival of vernacular styles with
 their easy use of space and lesser density of residents.
 {{< figure src="/images/essays/z vernacular adaptation, Kerala ......... 01.png" caption="A traditional Indian courtyard form adapted into a modern house, Trivandrum" width="100%" class="essay-image" >}}

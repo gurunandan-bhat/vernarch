@@ -9,7 +9,9 @@ draft = false
 
 Vernacular architecture can best be defined as indigenous architecture of a people or locale,
 based on social and environmental needs and preferences, and made from locally available
-building material with available skills. It would include not only individual structures but
+building material with available skills. 
+<!--more-->
+It would include not only individual structures but
 collective areas like the pols of Ahmedabad and other areas of Gujarat or the mohallas of cities
 of northern India – complete facilities for the inhabitants, which could be group or caste
 specific. The concentric temple towns of the south are other such clusters. Within a repetitive

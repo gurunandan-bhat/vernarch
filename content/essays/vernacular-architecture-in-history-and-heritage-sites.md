@@ -9,7 +9,10 @@ draft = false
 
 Though not much remains of residential dwellings in historical times, archaeological
 excavations and Indian art history give many clues about the vernacular architecture in those
-times. The excavation reports of Mohenjodaro, Taxila, Sikrap and other sites mention very
+times. 
+
+<!--more-->
+The excavation reports of Mohenjodaro, Taxila, Sikrap and other sites mention very
 orderly planning of structures in the towns. Visible today in the excavations at Dholavira are
 remains of residential dwellings in circular and rectangular designs, complete with stepwells
 and water storage tanks.
