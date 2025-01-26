@@ -16,18 +16,22 @@
         <div class="col-md-4">
           <div class="mb-2">
             <h3><a href="{{- $p.RelPermalink }}">{{- $p.LinkTitle }}</a></h3>
-            {{ .Summary }}<a href="{{- .RelPermalink }}"
-            ><i class="fa-solid fa-angles-right"></i
-          ></a>
+            <p>
+              {{ .Params.extract }}<a href="{{- .RelPermalink }}"
+                ><i class="fa-solid fa-angles-right"></i
+              ></a>
+            </p>
           </div>
         </div>
       {{- else }}
         <div class="offset-md-2 col-md-4">
           <div class="mb-2">
             <h3><a href="{{- $p.RelPermalink }}">{{- $p.LinkTitle }}</a></h3>
-            {{ .Summary }}<a href="{{- .RelPermalink }}"
-            ><i class="fa-solid fa-angles-right"></i
-          ></a>
+            <p>
+              {{ .Params.extract }}<a href="{{- .RelPermalink }}"
+                ><i class="fa-solid fa-angles-right"></i
+              ></a>
+            </p>
           </div>
         </div>
         <div class="col-md-4">

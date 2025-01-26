@@ -3,6 +3,7 @@ title = 'Southern India'
 date = 2023-01-15T09:00:00-07:00
 draft = false
 description = 'Covers the traditional architectures based on the historical civilizations in the states of Tamil Nadu, Kerala, Karnataka and Andhra Pradesh'
+extract = 'South India has a rich history of vernacular architecture, comprised as it is of the historical civilizations in the states of Tamil Nadu, Kerala, Karnataka and erstwhile Andhra Pradesh.'
 summaryImage = "Kerala, Calicut, Hindu house 02.png"
 headerImg = '/images/regions/south/TrStV8_Shenoy_29_04.png'
 listImage = '/images/regions/Karnataka, Deccani Nawab Mahal (Manipal Mus.) 03.png'
@@ -40,10 +41,7 @@ src = '02 Goa, Hindu 99.png'
 caption = '**Maratha residence, Mudhol.** A finely made structure that is nearly two hundred years old. It has a double row of Maratha pillars resting on stone bases. Presently at the Hasta Shilpa Village, Manipal, Karnataka.'
 +++
 
-South India has a rich history of vernacular architecture, comprised as it is of the historical civilizations in the states of Tamil Nadu, Kerala, Karnataka and erstwhile Andhra Pradesh. 
-
-<!--more-->
-Other influences were there due to the extensive Malabar and Coramandal (Cholamandal) coastline and trading links with the Romans, Arabs and other countries. It was a very eclectic architecture that prevailed and even the mosques were made in a local style.
+South India has a rich history of vernacular architecture, comprised as it is of the historical civilizations in the states of Tamil Nadu, Kerala, Karnataka and erstwhile Andhra Pradesh. Other influences were there due to the extensive Malabar and Coramandal (Cholamandal) coastline and trading links with the Romans, Arabs and other countries. It was a very eclectic architecture that prevailed and even the mosques were made in a local style.
 
 {{<blockquote position="right">}}influences were there due to the extensive Malabar and Coramandal (Cholamandal) coastline and trading links with the Romans, Arabs and other countries. It was a very eclectic architecture that prevailed and even the mosques were made in a local style.{{< /blockquote >}} The main vernacular house styles in south India are the nalukettu in Kerala, the huge mansions of the Chettiars in Tamil Nadu, the Kodagu ancestral homes in Coorg to the Nambuthiri Brahmins’ illams and Mappilah Muslim houses. The earliest, of course, were the very unusual huts of the Toda community. In Hyderabad the term haveli applies to a palace and there are smaller buildings, the deori, with courtyards, and also garden houses in rural areas with haveli features. {{< figure src="/images/regions/TN, Ooty, Toda 02.png" caption="**Houses of the Toda community in the Nilgiri mountains, Tamil Nadu** These are vaulted huts made of bent bamboo and grass with a low entrance. The hut on the right is a Toda temple." width="100%" class="essay-image" >}}
 

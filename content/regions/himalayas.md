@@ -3,6 +3,7 @@ title = 'Himalayas and the Hills'
 date = 2023-01-15T09:00:00-07:00
 draft = false
 description = 'Covers the vast diversity of houses in the northern Himalayan region and eastwards ranging from Islamic to Buddhist to Hindu'
+extract = 'An amazing variety of vernacular architecture exists in the northern Himalayas and further eastwards – from Islamic elements of Kashmir to Buddhist Zanskar and Ladakh.'
 summaryImage = "JK, Ladakh, Leh 01.png"
 headerImg = "/images/regions/himalayas/JK, Zanskar, Phuktal 3.png"
 listImage = '/images/regions/JK, Srinagar, Jhelum river front 03.png'
@@ -37,8 +38,7 @@ caption = '**A traditional dwelling in Alchi, Ladakh**. A four storeyed structur
 
 +++
 
-An amazing variety of vernacular architecture exists in the northern Himalayas and further eastwards – from Islamic elements of Kashmir to Buddhist Zanskar and Ladakh. <!--more-->
-After that are the Hindu styles in Himachal Pradesh, Uttarakhand and on to Buddhist Sikkim again. In Kashmir deodar timber is the main material used and its lengths are bonded with stone, all resting on stone foundations. The great number of massive deodar columns used in the Jama Masjid in Srinagar are testimony to its great value as an architectural element. The Jhelum river-front has an interesting medley of houses. Over a period of time wooden screens gave way to glass, just as mud and grass roofs gave way to the overwhelming use of galvanized corrugated iron sheets, for domestic as well as mosque construction. The mud and grass roofs were laid on birch bark on the roof structure, which made the roofs water proof and was good insulation in the extreme cold. However, hardly any houses at present have this very traditional form of roofing material.
+An amazing variety of vernacular architecture exists in the northern Himalayas and further eastwards – from Islamic elements of Kashmir to Buddhist Zanskar and Ladakh. After that are the Hindu styles in Himachal Pradesh, Uttarakhand and on to Buddhist Sikkim again. In Kashmir deodar timber is the main material used and its lengths are bonded with stone, all resting on stone foundations. The great number of massive deodar columns used in the Jama Masjid in Srinagar are testimony to its great value as an architectural element. The Jhelum river-front has an interesting medley of houses. Over a period of time wooden screens gave way to glass, just as mud and grass roofs gave way to the overwhelming use of galvanized corrugated iron sheets, for domestic as well as mosque construction. The mud and grass roofs were laid on birch bark on the roof structure, which made the roofs water proof and was good insulation in the extreme cold. However, hardly any houses at present have this very traditional form of roofing material.
 
 Like the rest of India the bricks used were earlier the thinner nanak-shahi variety and were gradually replaced with the British standard brick. Bay windows still predominate the façades of the houses and the British introduced corrugated iron sheets soon became standard even in vernacular houses’ roofs. Photographs from the archives of the Archaeological Survey of India (A.S.I.) of houses with this form of roofs have been included in this work.
 

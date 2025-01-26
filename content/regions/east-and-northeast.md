@@ -4,6 +4,7 @@ date = 2023-01-15T09:00:00-07:00
 draft = false
 description = 'Covers the traditional architectures found in the predominantly tribal civilizations of the Noth East of India'
 summaryImage = "Nagaland, tribe Pochury 01.png"
+extract = 'West Bengal in eastern India is the land of the ubiquitous bangla hut that went on to influence mainstream Hindu and Mughal architecture all over India.'
 headerImg = '/images/regions/east-and-northeast/Nagaland, tribe Chang 03.png'
 listImage = '/images/regions/Meghalaya, tribe Khasi 08.png'
 includeStates = ['Odisha', 'West Bengal', 'Assam', 'Meghalaya', 'Arunachal Pradesh', 'Manipur',
@@ -29,10 +30,7 @@ images = 107
     caption = '**Old residences and courtyards of houses in Kolkatta, West Bengal**. Some prominent residences in Kolkatta made during the British times have a western facade but inside they have courtyards just like in traditional Indian residences.'
 +++
 
-West Bengal in eastern India is the land of the ubiquitous bangla hut that went on to influence mainstream Hindu and Mughal architecture all over India. 
-
-<!--more-->
-It is doubtful if any other architectural feature anywhere in the world has been so widely adapted as this simple bangla or bangaldar hut. Complete architectural structures have been adapted to this graceful form, in whole or in parts, like bangaldar roofs and eaves.
+West Bengal in eastern India is the land of the ubiquitous bangla hut that went on to influence mainstream Hindu and Mughal architecture all over India. It is doubtful if any other architectural feature anywhere in the world has been so widely adapted as this simple bangla or bangaldar hut. Complete architectural structures have been adapted to this graceful form, in whole or in parts, like bangaldar roofs and eaves.
 
 The bangla hut roof was earlier made of split bamboo mats, bonded with mud and covered with thatch or straw, which has now been replaced with corrugated iron sheets. Internally, bamboo is used for support and the top is curved with overhanging sides for quick runoff for the heavy rains in that region, as well as for protection against the sun. {{< figure src="/images/regions/WBengal, banglas, 005.png" caption="A sentry post made in the shape of a bangaldar hut, Kolkatta" width="100%" class="essay-image" >}} Typically the eaves are also curved and deeper at the corners. Hardly any pure bangaldar huts remain today and illustrated in this work are black and white photographs of some such earlier huts from the archives of the Anthropological Survey of India, Kolkata. The present country huts of Bengal have not only switched over to corrugated sheets for the curvilinear roof, but have even become double-storeyed, with a verandah on the upper floor, though the characteristic slopes of the roof and walls still remain.
 

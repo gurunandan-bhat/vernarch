@@ -21,10 +21,7 @@
             <h6>Covers {{ delimit . ", " " and " }}</h6>
           {{- end }}
           <p class="small">
-            {{ .Summary }}
-            <a href="{{- .RelPermalink }}"
-              ><i class="fa-solid fa-angles-right"></i
-            ></a>
+            {{ .Params.extract }} <a href="{{- .RelPermalink }}"><i class="fa-solid fa-angles-right"></i></a>
           </p>
         {{- end }}
       </div>
